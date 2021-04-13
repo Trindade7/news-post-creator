@@ -11,6 +11,12 @@ scrapper.init().then(() => {
 })
   .catch(err => { throw new Error(err); });
 
+
+/**
+ *
+ * For test purposes
+ *
+ */
 function extractFrom(): void {
   const rl = createInterface({
     input: process.stdin,
@@ -54,9 +60,13 @@ const server = createServer(async (req, res) => {
   res.setHeader('Content-Type', 'text/plain');
 
   console.log(req);
-  const textList = await scrapper.scrapText('a');
 
-  res.end(JSON.stringify(textList));
+  try {
+    const textList = await scrapper.scrapText('a');
+    res.end(JSON.stringify(textList));
+  } catch (err) {
+    res.end(err);
+  }
 });
 
 
