@@ -1,0 +1,1642 @@
+[
+  {
+    "slug": "real-world-data-come-to-nfts-as-street-artists-geotag-their-work",
+    "cover": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDQvNDFjNjNlN2ItNGEzMy00YWNkLThmYjQtYTNhYjFiNGY3M2M4LmpwZw\u003d\u003d.jpg",
+    "ownerAsset": {
+      "name": "Cointelegraph.com News",
+      "slug": "cointelegraph-news",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": 0
+    },
+    "assets": [
+      {
+        "name": "DATA",
+        "slug": "data",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2446.png",
+        "description": "DATA (DTA) is a cryptocurrency and operates on the Ethereum platform. DATA has a current supply of 11,500,000,000 with 11,499,993,344.4009 in circulation. The last known price of DATA is 0.0014307 USD and is down -8.31 over the last 24 hours. It is currently trading on 9 active market(s) with $4,211,967.72 traded over the last 24 hours. More information can be found at http://data.eco/.",
+        "socialUrl": {
+          "chat": [
+            "https://t.me/blockchainDATA"
+          ],
+          "reddit": [],
+          "twitter": [
+            "https://twitter.com/Blockchain_Data"
+          ],
+          "website": [
+            "http://data.eco/"
+          ],
+          "explorer": [
+            "https://etherscan.io/token/0x69b148395ce0015c13e36bffbad63f49ef874e03",
+            "https://ethplorer.io/address/0x69b148395ce0015c13e36bffbad63f49ef874e03"
+          ],
+          "source_code": [
+            "https://github.com/BlockchainDATA"
+          ],
+          "announcement": [],
+          "message_board": [
+            "https://medium.com/@Blockchain_Data"
+          ],
+          "technical_doc": []
+        },
+        "followCount": 0,
+        "maxChar": null
+      },
+      {
+        "name": "NFT",
+        "slug": "nft",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6650.png",
+        "description": "NFT (NFT) is a cryptocurrency and operates on the Ethereum platform. NFT has a current supply of 88,888,888 with 36,863,404 in circulation. The last known price of NFT is 0.37130001 USD and is down -4.16 over the last 24 hours. It is currently trading on 3 active market(s) with $526,443.88 traded over the last 24 hours. More information can be found at https://www.nft.org/.",
+        "socialUrl": {
+          "chat": [
+            "https://t.me/NFTProtocol"
+          ],
+          "reddit": [],
+          "twitter": [
+            "https://twitter.com/nft_protocol"
+          ],
+          "website": [
+            "https://www.nft.org/"
+          ],
+          "explorer": [
+            "https://etherscan.io/token/0xcB8d1260F9c92A3A545d409466280fFdD7AF7042",
+            "https://ethplorer.io/address/0xcB8d1260F9c92A3A545d409466280fFdD7AF7042"
+          ],
+          "source_code": [
+            "https://github.com/nftprotocol"
+          ],
+          "announcement": [],
+          "message_board": [
+            "https://nftprotocol.substack.com/"
+          ],
+          "technical_doc": []
+        },
+        "followCount": 0,
+        "maxChar": null
+      }
+    ],
+    "meta": {
+      "title": "Real-world data comes to NFTs as street artists geotag their work",
+      "subtitle": "\n                “Blockchain is not just a buzzword here, it legitimately enables something that used to be impossible.”\n            ",
+      "content": null,
+      "sourceName": "Cointelegraph.com News",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://cointelegraph.com/news/real-world-data-come-to-nfts-as-street-artists-geotag-their-work",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T19:32:19.000Z",
+      "updatedAt": "2021-04-06T19:32:19.000Z",
+      "releasedAt": "2021-04-06T19:23:23.000Z"
+    }
+  },
+  {
+    "slug": "balancer-sees-opportunity-outside-ethereum-algorand-uniswap",
+    "cover": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/06/balancer-bal-token-price-defi-market-gID_4.jpg",
+    "ownerAsset": {
+      "name": "Decrypt",
+      "slug": "decrypt",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": 0
+    },
+    "assets": [
+      {
+        "name": "Ethereum",
+        "slug": "ethereum",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+        "description": "Ethereum (ETH) is a cryptocurrency . Users are able to generate ETH through the process of mining. Ethereum has a current supply of 115,359,376.1865. The last known price of Ethereum is 2,095.42988632 USD and is down -1.74 over the last 24 hours. It is currently trading on 6185 active market(s) with $30,202,059,230.03 traded over the last 24 hours. More information can be found at https://www.ethereum.org/.",
+        "socialUrl": {
+          "chat": [
+            "https://gitter.im/orgs/ethereum/rooms"
+          ],
+          "reddit": [
+            "https://reddit.com/r/ethereum"
+          ],
+          "twitter": [
+            "https://twitter.com/ethereum"
+          ],
+          "website": [
+            "https://www.ethereum.org/"
+          ],
+          "explorer": [
+            "https://etherscan.io/",
+            "https://ethplorer.io/",
+            "https://blockchair.com/ethereum",
+            "https://bscscan.com/token/0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+            "https://eth.tokenview.com/en/blocklist"
+          ],
+          "source_code": [
+            "https://github.com/ethereum"
+          ],
+          "announcement": [
+            "https://bitcointalk.org/index.php?topic\u003d428589.0"
+          ],
+          "message_board": [
+            "https://forum.ethereum.org/"
+          ],
+          "technical_doc": [
+            "https://github.com/ethereum/wiki/wiki/White-Paper"
+          ]
+        },
+        "followCount": 0,
+        "maxChar": null
+      },
+      {
+        "name": "Algorand",
+        "slug": "algorand",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png",
+        "description": "Algorand (ALGO) is a cryptocurrency . Algorand has a current supply of 5,238,145,917.981606 with 2,619,949,339.527664 in circulation. The last known price of Algorand is 1.40528105 USD and is up 2.06 over the last 24 hours. It is currently trading on 133 active market(s) with $463,671,769.62 traded over the last 24 hours. More information can be found at http://algorand.foundation.",
+        "socialUrl": {
+          "chat": [
+            "https://t.me/AlgorandFoundation",
+            "https://discord.gg/QBYp7Y2"
+          ],
+          "reddit": [
+            "https://reddit.com/r/AlgorandOfficial"
+          ],
+          "twitter": [
+            "https://twitter.com/AlgoFoundation"
+          ],
+          "website": [
+            "http://algorand.foundation",
+            "https://www.algorand.com/"
+          ],
+          "explorer": [
+            "https://algoexplorer.io/"
+          ],
+          "source_code": [
+            "https://github.com/algorand"
+          ],
+          "announcement": [
+            "https://algorand.foundation/algorand-foundation-marks-new-chapter-in-global-economics-with-inaugural-auction"
+          ],
+          "message_board": [
+            "https://medium.com/algorand-foundation",
+            "https://forum.algorand.org/"
+          ],
+          "technical_doc": [
+            "https://www.algorand.com/resources/white-papers"
+          ]
+        },
+        "followCount": 0,
+        "maxChar": null
+      },
+      {
+        "name": "AIMS",
+        "slug": "aims",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4602.png",
+        "description": null,
+        "socialUrl": {
+          "chat": [],
+          "reddit": [],
+          "twitter": [],
+          "website": [
+            "http://highcastle.co/home"
+          ],
+          "explorer": [
+            "https://etherscan.io/token/0x9a1c7577a69ea9e296ef99bfb0eb6bedbe352a36",
+            "https://ethplorer.io/address/0x9a1c7577a69ea9e296ef99bfb0eb6bedbe352a36"
+          ],
+          "source_code": [],
+          "announcement": [],
+          "message_board": [],
+          "technical_doc": []
+        },
+        "followCount": 0,
+        "maxChar": null
+      },
+      {
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png",
+        "description": "Uniswap (UNI) is a cryptocurrency and operates on the Ethereum platform. Uniswap has a current supply of 1,000,000,000 with 523,256,856.47115046 in circulation. The last known price of Uniswap is 31.03227577 USD and is down -0.33 over the last 24 hours. It is currently trading on 228 active market(s) with $621,025,132.29 traded over the last 24 hours. More information can be found at https://uniswap.org/blog/uni/.",
+        "socialUrl": {
+          "chat": [
+            "https://discord.gg/FCfyBSbCU5"
+          ],
+          "reddit": [
+            "https://reddit.com/r/Uniswap"
+          ],
+          "twitter": [
+            "https://twitter.com/Uniswap"
+          ],
+          "website": [
+            "https://uniswap.org/blog/uni/",
+            "https://uniswap.org/"
+          ],
+          "explorer": [
+            "https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "https://ethplorer.io/address/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "https://bscscan.com/token/0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+            "https://hecoinfo.com/token/0x22c54ce8321a4015740ee1109d9cbc25815c46e6",
+            "https://blockscout.com/xdai/mainnet/tokens/0x4537e328bf7e4efa29d05caea260d7fe26af9d74/token-transfers"
+          ],
+          "source_code": [],
+          "announcement": [],
+          "message_board": [
+            "https://uniswap.org/blog/"
+          ],
+          "technical_doc": []
+        },
+        "followCount": 0,
+        "maxChar": null
+      }
+    ],
+    "meta": {
+      "title": "Balancer to Appear Outside Ethereum, Could Become Algorand\u0027s Uniswap",
+      "subtitle": "Proof-of-stake blockchains continue to hunt for DeFi integrations that can help them exploit Ethereum\u0027s weaknesses.",
+      "content": null,
+      "sourceName": "Decrypt",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://decrypt.co/64031/balancer-sees-opportunity-outside-ethereum-algorand-uniswap?\u0026utm_medium\u003dreferral\u0026utm_campaign\u003dfeed\u0026utm_source\u003dcoinmarketcap",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T13:12:20.000Z",
+      "updatedAt": "2021-04-06T13:12:20.000Z",
+      "releasedAt": "2021-04-06T19:19:55.000Z"
+    }
+  },
+  {
+    "slug": "grayscale-chainlink-digital-asset-fund",
+    "cover": null,
+    "ownerAsset": {
+      "name": "The Block",
+      "slug": "the-block",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": 800
+    },
+    "assets": [
+      {
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
+        "description": "Chainlink (LINK) is a cryptocurrency and operates on the Ethereum platform. Chainlink has a current supply of 1,000,000,000 with 417,509,556.43444455 in circulation. The last known price of Chainlink is 33.0860737 USD and is up 4.53 over the last 24 hours. It is currently trading on 489 active market(s) with $2,510,464,901.68 traded over the last 24 hours. More information can be found at https://chain.link/.",
+        "socialUrl": {
+          "chat": [
+            "https://t.me/chainlinkofficial"
+          ],
+          "reddit": [
+            "https://reddit.com/r/chainlink"
+          ],
+          "twitter": [
+            "https://twitter.com/chainlink"
+          ],
+          "website": [
+            "https://chain.link/",
+            "https://smartcontract.com/"
+          ],
+          "explorer": [
+            "https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca",
+            "https://bscscan.com/token/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+            "https://explorer.solana.com/address/CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG",
+            "https://blockscout.com/xdai/mainnet/tokens/0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2/token-transfers",
+            "https://ftmscan.com/token/0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8"
+          ],
+          "source_code": [
+            "https://github.com/smartcontractkit/chainlink"
+          ],
+          "announcement": [],
+          "message_board": [
+            "https://medium.com/chainlink",
+            "https://blog.chain.link/"
+          ],
+          "technical_doc": [
+            "https://link.smartcontract.com/whitepaper"
+          ]
+        },
+        "followCount": 0,
+        "maxChar": null
+      }
+    ],
+    "meta": {
+      "title": "Grayscale adds Chainlink to its large-cap digital asset fund",
+      "subtitle": "Grayscale Investments announced Tuesday a rebalancing of its large-cap crypto fund, a move that adds the Chainlink token to the entity\u0027s list of held digital assets.\nThe post Grayscale adds Chainlink to its large-cap digital asset fund appeared first on The Block.\n",
+      "content": "\u003cp\u003eGrayscale Investments announced Tuesday a rebalancing of its large-cap crypto fund, a move that adds the Chainlink token to the entity\u0027s list of held digital assets.\u003c/p\u003e\n\u003cp\u003eIn statements, Grayscale said that it \"adjusted the Fund’s portfolio by selling the existing Fund Components in proportion to their respective weightings and using the cash proceeds to purchase Chainlink (LINK) in accordance with the Fund\u0027s construction criteria.\"\u003c/p\u003e\n\u003cp\u003eThe move comes months after Grayscale incorporated a series of trusts in January, including one focused on Chainlink. That same month, Grayscale removed XRP from the Digital Large Cap Fund.\u003c/p\u003e\n\u003cp\u003eThe Grayscale Chainlink Trust was among those launched in March, as the firm previously announced. \u003c/p\u003e\n\u003cp\u003eChainlink is a network of oracles that provide data to smart contracts, providing an information basis for the decentralized finance (DeFi) ecosystem. LINK is the native token of the Chainlink network and acts as a financial incentive for node operators.\u003c/p\u003e\n\u003cp\u003eAs explained on its website, Grayscale\u0027s Digital Large Cap Fund is also comprised of bitcoin, ethereum, bitcoin cash and litecoin. The fund is market cap-weighted and as of April 5 had $538.2 million in assets under management. Per Tuesday\u0027s press release, the fund is comprised of 79.8% BTC.\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cbr/\u003e\u003cp\u003e\u003cspan class\u003d\"font-body font-size-7;\"\u003e© 2021 The Block Crypto, Inc. All Rights Reserved. This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.\u003c/span\u003e\u003c/p\u003e\n",
+      "sourceName": "The Block",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://www.theblockcrypto.com/linked/100634/grayscale-chainlink-digital-asset-fund?utm_source\u003dcoinmarketcap\u0026utm_medium\u003drss",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T19:29:06.000Z",
+      "updatedAt": "2021-04-06T19:29:06.000Z",
+      "releasedAt": "2021-04-06T19:19:23.000Z"
+    }
+  },
+  {
+    "slug": "bitcoin-and-crypto-market-roundup-for-last-week",
+    "cover": null,
+    "ownerAsset": {
+      "name": "Bitcoinist.com",
+      "slug": "bitcoinist",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": 800
+    },
+    "assets": [],
+    "meta": {
+      "title": "Bitcoin and Crypto Market Roundup For Last Week",
+      "subtitle": "As corporations like Visa and PayPal join Wall Street banks in expanding their crypto offerings, Ethereum is setting new all-time highs above $2K. Prices began rising on Wednesday as the market was uplifted by crypto-themed April Fool’s pranks. The Teletubbies tweeted about Bitco...",
+      "content": "\u003cp\u003eAs corporations like Visa and PayPal join Wall Street banks in expanding their crypto offerings, Ethereum is setting new all-time highs above $2K.\u003c/p\u003e\n\u003cp\u003ePrices began rising on Wednesday as the market was uplifted by crypto-themed April Fool’s pranks. The Teletubbies tweeted about Bitcoin to advertise their own imaginary cryptocurrency TubbyCoin, and long-term critic Peter Schiff briefly admitted that he was wrong about the crypto asset.\u003c/p\u003e\n\u003cp\u003eWhile Bitcoin wasn’t fooled, Ethereum soared as the week progressed; sparking a mega rally among smart contract platforms. TRON doubled in value, EOS rose almost 50%, and BNB increased 25%.\u003c/p\u003e\n\u003chr /\u003e\n\u003ch2\u003e\u003cstrong\u003eThis Week’s Highlights\u003c/strong\u003e\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eVisa and PayPal tighten the crypto embrace\u003c/li\u003e\n\u003cli\u003eWall Street banks expand Bitcoin offerings\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2\u003eVisa and PayPal tighten the crypto embrace\u003c/h2\u003e\n\u003cp\u003eEthereum’s stellar performance could be credited to integrations with the biggest global payment processors.\u003c/p\u003e\n\u003cp\u003eVisa said last Monday that it will begin accepting cryptocurrency at millions of its global merchants, and will be using the Ethereum-based stablecoin US Dollar Coin (USDC), to settle transactions.\u003c/p\u003e\n\u003cp\u003eNot to be outdone, PayPal said it will also allow U.S. customers to pay online merchants using crypto, marking another key milestone in the mainstream adoption of crypto assets.\u003c/p\u003e\n\u003ch2\u003eWall Street banks expand Bitcoin offerings\u003c/h2\u003e\n\u003cp\u003eWall Street megabanks Morgan Stanley and Goldman Sachs are diving deeply into digital assets with new Bitcoin investment products.\u003c/p\u003e\n\u003cp\u003eGoldman announced plans this week to offer multiple crypto investment vehicles, citing demand from “a large contingent of clients.” Meanwhile, Morgan Stanley has said it will give a dozen of its mutual funds the ability to invest indirectly in Bitcoin.\u003c/p\u003e\n\u003cp\u003eThis rapid pace of adoption on Wall Street reflects what the Chief Investment Officer of Soros Fund Management has identified as an “inflection point”, triggered by growing fears of inflation.\u003c/p\u003e\n\u003ch2\u003eWeek ahead\u003c/h2\u003e\n\u003cp\u003eWith global markets optimistic after the S\u0026amp;P 500 surpassed 4,000 for the first time, it is easy to imagine both Bitcoin and Ethereum soaring to new highs in the week to come.\u003c/p\u003e\n\u003cp\u003eFor the moment, however, Bitcoin is still held back by selling pressure at $60K. As this level has now been tapped a handful of times, we could expect an eventual break to unleash a powerful rally upwards, adding to the bullish sentiment created by ETH finally breaking through $2K.\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n",
+      "sourceName": "Bitcoinist.com",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://bitcoinist.com/bitcoin-and-crypto-market-roundup-for-last-week/?utm_source\u003drss\u0026utm_medium\u003drss\u0026utm_campaign\u003dbitcoin-and-crypto-market-roundup-for-last-week",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T19:29:06.000Z",
+      "updatedAt": "2021-04-06T19:29:06.000Z",
+      "releasedAt": "2021-04-06T19:15:02.000Z"
+    }
+  },
+  {
+    "slug": "iowa-college-basketball-ncaa-player-luka-garza-selling-nft",
+    "cover": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/garza-scaled-gID_4.jpg",
+    "ownerAsset": {
+      "name": "Decrypt",
+      "slug": "decrypt",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": 0
+    },
+    "assets": [
+      {
+        "name": "NFT",
+        "slug": "nft",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6650.png",
+        "description": "NFT (NFT) is a cryptocurrency and operates on the Ethereum platform. NFT has a current supply of 88,888,888 with 36,863,404 in circulation. The last known price of NFT is 0.37130001 USD and is down -4.16 over the last 24 hours. It is currently trading on 3 active market(s) with $526,443.88 traded over the last 24 hours. More information can be found at https://www.nft.org/.",
+        "socialUrl": {
+          "chat": [
+            "https://t.me/NFTProtocol"
+          ],
+          "reddit": [],
+          "twitter": [
+            "https://twitter.com/nft_protocol"
+          ],
+          "website": [
+            "https://www.nft.org/"
+          ],
+          "explorer": [
+            "https://etherscan.io/token/0xcB8d1260F9c92A3A545d409466280fFdD7AF7042",
+            "https://ethplorer.io/address/0xcB8d1260F9c92A3A545d409466280fFdD7AF7042"
+          ],
+          "source_code": [
+            "https://github.com/nftprotocol"
+          ],
+          "announcement": [],
+          "message_board": [
+            "https://nftprotocol.substack.com/"
+          ],
+          "technical_doc": []
+        },
+        "followCount": 0,
+        "maxChar": null
+      }
+    ],
+    "meta": {
+      "title": "Men\u0027s College Basketball Player of the Year Luka Garza Selling NFT",
+      "subtitle": "The top men\u0027s college basketball player in the country just finished his time as a student athlete, and his first business move is to sell an NFT.",
+      "content": null,
+      "sourceName": "Decrypt",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://decrypt.co/63989/iowa-college-basketball-ncaa-player-luka-garza-selling-nft?\u0026utm_medium\u003dreferral\u0026utm_campaign\u003dfeed\u0026utm_source\u003dcoinmarketcap",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T19:02:19.000Z",
+      "updatedAt": "2021-04-06T19:02:19.000Z",
+      "releasedAt": "2021-04-06T19:04:03.000Z"
+    }
+  },
+  {
+    "slug": "how-chainlinks-link-15-rally-could-be-just-the-start",
+    "cover": null,
+    "ownerAsset": {
+      "name": "NewsBTC",
+      "slug": "newsbtc",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": 800
+    },
+    "assets": [
+      {
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
+        "description": "Chainlink (LINK) is a cryptocurrency and operates on the Ethereum platform. Chainlink has a current supply of 1,000,000,000 with 417,509,556.43444455 in circulation. The last known price of Chainlink is 33.0860737 USD and is up 4.53 over the last 24 hours. It is currently trading on 489 active market(s) with $2,510,464,901.68 traded over the last 24 hours. More information can be found at https://chain.link/.",
+        "socialUrl": {
+          "chat": [
+            "https://t.me/chainlinkofficial"
+          ],
+          "reddit": [
+            "https://reddit.com/r/chainlink"
+          ],
+          "twitter": [
+            "https://twitter.com/chainlink"
+          ],
+          "website": [
+            "https://chain.link/",
+            "https://smartcontract.com/"
+          ],
+          "explorer": [
+            "https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca",
+            "https://bscscan.com/token/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+            "https://explorer.solana.com/address/CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG",
+            "https://blockscout.com/xdai/mainnet/tokens/0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2/token-transfers",
+            "https://ftmscan.com/token/0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8"
+          ],
+          "source_code": [
+            "https://github.com/smartcontractkit/chainlink"
+          ],
+          "announcement": [],
+          "message_board": [
+            "https://medium.com/chainlink",
+            "https://blog.chain.link/"
+          ],
+          "technical_doc": [
+            "https://link.smartcontract.com/whitepaper"
+          ]
+        },
+        "followCount": 0,
+        "maxChar": null
+      },
+      {
+        "name": "Rally",
+        "slug": "rally",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8075.png",
+        "description": "Rally (RLY) is a cryptocurrency and operates on the Ethereum platform. Rally has a current supply of 15,000,000,000 with 131,046,373.37457345 in circulation. The last known price of Rally is 1.05132311 USD and is down -10.52 over the last 24 hours. It is currently trading on 6 active market(s) with $4,238,756.39 traded over the last 24 hours. More information can be found at https://vaults.rally.io/vaults.",
+        "socialUrl": {
+          "chat": [
+            "https://discord.com/channels/727244969168863316/727244969168863319"
+          ],
+          "reddit": [],
+          "twitter": [
+            "https://twitter.com/rally_io"
+          ],
+          "website": [
+            "https://vaults.rally.io/vaults",
+            "https://rally.io/"
+          ],
+          "explorer": [
+            "https://etherscan.io/token/0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b"
+          ],
+          "source_code": [
+            "https://etherscan.io/address/0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b#code"
+          ],
+          "announcement": [],
+          "message_board": [
+            "https://medium.com/rallynetwork",
+            "https://forum.rally.io/"
+          ],
+          "technical_doc": []
+        },
+        "followCount": 0,
+        "maxChar": null
+      },
+      {
+        "name": "JUST",
+        "slug": "just",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5488.png",
+        "description": "JUST (JST) is a cryptocurrency and operates on the Tron platform. JUST has a current supply of 9,900,000,000 with 2,260,326,706 in circulation. The last known price of JUST is 0.14926187 USD and is down -16.86 over the last 24 hours. It is currently trading on 66 active market(s) with $466,668,740.32 traded over the last 24 hours. More information can be found at https://just.network/#/.",
+        "socialUrl": {
+          "chat": [
+            "https://t.me/just_defi"
+          ],
+          "reddit": [],
+          "twitter": [
+            "https://twitter.com/defi_just"
+          ],
+          "website": [
+            "https://just.network/#/"
+          ],
+          "explorer": [
+            "https://tronscan.org/#/token20/TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9"
+          ],
+          "source_code": [],
+          "announcement": [],
+          "message_board": [
+            "https://medium.com/@TronFoundation/the-testnet-of-the-tron-based-stablecoins-lending-platform-successfully-completed-platform-662e0649209f"
+          ],
+          "technical_doc": [
+            "https://www.just.network/docs/white_paper_en.pdf"
+          ]
+        },
+        "followCount": 0,
+        "maxChar": null
+      }
+    ],
+    "meta": {
+      "title": "How Chainlink’s (LINK) 22% rally could be just the start",
+      "subtitle": "Despite a slight pullback in Bitcoin and Ethereum prices, Chainlink remains strong. With a 22% rally in the last week and 4.1% on the daily chart, LINK stands as one of the biggest gainers in the top 10, trading at $33.07, at the time of writing. From the traders\u0026#8217; perspecti...",
+      "content": "\u003cp\u003eDespite a slight pullback in Bitcoin and Ethereum prices, Chainlink remains strong. With a 22% rally in the last week and 4.1% on the daily chart, LINK stands as one of the biggest gainers in the top 10, trading at $33.07, at the time of writing.\u003c/p\u003e\n\u003cfigure id\u003d\"attachment_460609\" aria-describedby\u003d\"caption-attachment-460609\" style\u003d\"width: 722px\" class\u003d\"wp-caption aligncenter\"\u003e\u003cimg loading\u003d\"lazy\" class\u003d\"wp-image-460609 size-full\" src\u003d\"https://www.newsbtc.com/wp-content/uploads/2021/04/Chainlink-LINK-LINKUSDT-1.jpg\" alt\u003d\"Chainlink LINK LINKUSDT\" width\u003d\"722\" height\u003d\"356\" srcset\u003d\"https://www.newsbtc.com/wp-content/uploads/2021/04/Chainlink-LINK-LINKUSDT-1.jpg 722w, https://www.newsbtc.com/wp-content/uploads/2021/04/Chainlink-LINK-LINKUSDT-1-460x227.jpg 460w\" sizes\u003d\"(max-width: 722px) 100vw, 722px\"/\u003e\u003cfigcaption id\u003d\"caption-attachment-460609\" class\u003d\"wp-caption-text\"\u003eLINK on a bullish trend in the 24-hour chart. Source: LINKUSDT Tradingview\u003c/figcaption\u003e\u003c/figure\u003e\n\u003cp\u003eFrom the traders\u0026rsquo; perspective, LINK\u0026rsquo;s price structure is highly bullish. After a sideways movement over the past few weeks, the cryptocurrency has managed to break a major resistance barrier at $32.\u003c/p\u003e\n\u003cp\u003eTrader Micha\u0026euml;l van de Poppe stated that LINK has bottomed out in the LINK/BTC trading pair. Strengthening the thesis that LINK\u0026rsquo;s gains will extend further, the trader set support at 0.0004 sats and a possible 253% increase to 0.0017 sats if LINK breaks through its higher resistance levels.\u003c/p\u003e\n\u003cfigure id\u003d\"attachment_460608\" aria-describedby\u003d\"caption-attachment-460608\" style\u003d\"width: 860px\" class\u003d\"wp-caption aligncenter\"\u003e\u003cimg loading\u003d\"lazy\" class\u003d\"wp-image-460608 size-large\" src\u003d\"https://www.newsbtc.com/wp-content/uploads/2021/04/Chainlink-LINK-860x439.jpg\" alt\u003d\"Chainlink LINK LINKUSDT\" width\u003d\"860\" height\u003d\"439\" srcset\u003d\"https://www.newsbtc.com/wp-content/uploads/2021/04/Chainlink-LINK-860x439.jpg 860w, https://www.newsbtc.com/wp-content/uploads/2021/04/Chainlink-LINK-460x235.jpg 460w, https://www.newsbtc.com/wp-content/uploads/2021/04/Chainlink-LINK-768x392.jpg 768w, https://www.newsbtc.com/wp-content/uploads/2021/04/Chainlink-LINK-750x383.jpg 750w, https://www.newsbtc.com/wp-content/uploads/2021/04/Chainlink-LINK.jpg 888w\" sizes\u003d\"(max-width: 860px) 100vw, 860px\"/\u003e\u003cfigcaption id\u003d\"caption-attachment-460608\" class\u003d\"wp-caption-text\"\u003eSource: Micha\u0026euml;l van de Poppe\u003c/figcaption\u003e\u003c/figure\u003e\n\u003cp\u003eOn the LINK/BTC pair, trader \u0026ldquo;Jon\u0026rdquo; said:\u003c/p\u003e\n\u003cblockquote\u003e\u003cp\u003eOfficially broke out from the massive downtrend line dating back to August. Lines from the previous uptrend corridor may provide key levels on this leg up. 5 part Elliot impulse wave to ATH would be fun scenario.\u003c/p\u003e\u003c/blockquote\u003e\n\u003ch2\u003e\u003cstrong\u003eChainlink\u0026rsquo;s potential to extend its rally\u003c/strong\u003e\u003c/h2\u003e\n\u003cp\u003eIt seems that the beginning of LINK\u0026rsquo;s bullish momentum stems from its inclusion in Grayscale\u0026rsquo;s product suite. A few hours ago, the firm announced LINK\u0026rsquo;s inclusion in the Digital Large Cap Fund.\u003c/p\u003e\n\u003cp\u003eOf the recently added cryptocurrencies (MANA, LIV, BAT, FIL), Grayscale said LINK is the only one qualified to be part of this product. Its role is to give investors a strategy to earn passive rewards by gaining exposure to 70% of its cryptocurrencies basket.\u003c/p\u003e\n\u003cp\u003eAs a result of being part of Grayscale\u0026rsquo;s products, demand for LINK has increased. This trend might continue due to the expansion of Chainlink\u0026rsquo;s partnerships.\u003c/p\u003e\n\u003cp\u003eOver the last month, Chainlink\u0026rsquo;s oracle services have been integrated into Polkadot\u0026rsquo;s parachain ecosystem operable with Substrate\u0026rsquo;s network. Chainlink has also being integrated by some of the most prominent DeFi protocols on Ethereum.\u003c/p\u003e\n\u003cp\u003eThe most recent partnership was cemented with decentralized trading platform dYdx, backed by a16z and Three Arrows Capital. Even in the NFTs sector, Chainlink has been leveraged to enable the tokenization of \u0026ldquo;Ether Cards\u0026rdquo; minted after certain events occur in the \u0026ldquo;real world\u0026rdquo;:\u003c/p\u003e\n\u003cblockquote class\u003d\"twitter-tweet\" data-width\u003d\"500\" data-dnt\u003d\"true\"\u003e\n\u003cp lang\u003d\"en\" dir\u003d\"ltr\"\u003e.@dydxprotocol is now using #Chainlink Price Feeds on the layer 2 @StarkWareLtd ZK-Rollup. Using STARK-compatible signatures, Chainlink\u0026rsquo;s low costs \u0026amp; subsecond oracle update latency enable secure and scalable decentralized perpetual trading markets on dYdX.\u003c/p\u003e\n\u003cp\u003e\u0026mdash; Chainlink \u0026ndash; Official Channel (@chainlink) April 6, 2021\u003c/p\u003e\u003c/blockquote\u003e\n\u003cp\u003e\u003cscript async src\u003d\"https://platform.twitter.com/widgets.js\" charset\u003d\"utf-8\"\u003e\u003c/script\u003e\u003c/p\u003e\n\u003cp\u003eChainlink\u0026rsquo;s multiple oracle use cases and interoperability seem poised to continue to increase LINK buying pressure.\u003c/p\u003e\n\u003cp\u003eRookieXBT recommended keeping an eye on other oracle services based on BAND and TRB. With a growing DeFi sector, its total value locked exceeding $50 billion, these services could see significant growth in adoption.\u003c/p\u003e\n\u003cblockquote class\u003d\"twitter-tweet\" data-width\u003d\"500\" data-dnt\u003d\"true\"\u003e\n\u003cp lang\u003d\"en\" dir\u003d\"ltr\"\u003e.@dydxprotocol is now using #Chainlink Price Feeds on the layer 2 @StarkWareLtd ZK-Rollup. Using STARK-compatible signatures, Chainlink\u0026rsquo;s low costs \u0026amp; subsecond oracle update latency enable secure and scalable decentralized perpetual trading markets on dYdX.\u003c/p\u003e\n\u003cp\u003e\u0026mdash; Chainlink \u0026ndash; Official Channel (@chainlink) April 6, 2021\u003c/p\u003e\u003c/blockquote\u003e\n\u003cp\u003e\u003cscript async src\u003d\"https://platform.twitter.com/widgets.js\" charset\u003d\"utf-8\"\u003e\u003c/script\u003e\u003c/p\u003e",
+      "sourceName": "NewsBTC",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://www.newsbtc.com/news/how-chainlinks-link-15-rally-could-be-just-the-start/",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T19:02:19.000Z",
+      "updatedAt": "2021-04-06T19:02:19.000Z",
+      "releasedAt": "2021-04-06T19:00:12.000Z"
+    }
+  },
+  {
+    "slug": "paxos-applies-for-clearing-license-with-sec-following-successful-pilot-tests",
+    "cover": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDQvOGMxZTg3NWMtNWUyYy00Y2JlLWI1ZDUtNDAxYmVjZGM1MjI1LmpwZw\u003d\u003d.jpg",
+    "ownerAsset": {
+      "name": "Cointelegraph.com News",
+      "slug": "cointelegraph-news",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": 0
+    },
+    "assets": [
+      {
+        "name": "Pilot",
+        "slug": "pilot",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9039.png",
+        "description": "Pilot (PTD) is a cryptocurrency . Pilot has a current supply of 0. The last known price of Pilot is 0.68042755 USD and is down -1.68 over the last 24 hours. It is currently trading on 1 active market(s) with $40,893.02 traded over the last 24 hours. More information can be found at https://p.td/.",
+        "socialUrl": {
+          "chat": [
+            "https://t.me/PTDGroup",
+            "https://weibo.com/Pilotprotocol"
+          ],
+          "reddit": [],
+          "twitter": [
+            "https://twitter.com/Pilotprotocol"
+          ],
+          "website": [
+            "https://p.td/",
+            "https://pilot-1.gitbook.io/pillot/"
+          ],
+          "explorer": [
+            "https://hecoinfo.com/token/0x52ee54dd7a68e9cf131b0a57fd6015c74d7140e2"
+          ],
+          "source_code": [
+            "https://github.com/P-TD"
+          ],
+          "announcement": [],
+          "message_board": [],
+          "technical_doc": [
+            "https://pilot-1.gitbook.io/pilot-over-lending-protocol-whitepaper/"
+          ]
+        },
+        "followCount": 0,
+        "maxChar": null
+      }
+    ],
+    "meta": {
+      "title": "Paxos applies for clearing license with SEC following successful pilot tests",
+      "subtitle": "\n                The stablecoin issuer completed a successful pilot test for same-day trade settlements with Credit Suisse and Instinet.  \n            ",
+      "content": null,
+      "sourceName": "Cointelegraph.com News",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://cointelegraph.com/news/paxos-applies-for-clearing-license-with-sec-following-successful-pilot-tests",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T18:52:19.000Z",
+      "updatedAt": "2021-04-06T18:52:19.000Z",
+      "releasedAt": "2021-04-06T18:45:00.000Z"
+    }
+  },
+  {
+    "slug": "signal-mobilecoin-cryptocurrency-payments",
+    "cover": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/01/signal-app-ios-android-gID_1.jpg",
+    "ownerAsset": {
+      "name": "Decrypt",
+      "slug": "decrypt",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": 0
+    },
+    "assets": [
+      {
+        "name": "Cryptocurrency",
+        "slug": "cryptocurrency",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5537.png",
+        "description": "Cryptocurrency is a Quark algorithm-based coin that aims to protect up to 50% of funds invested in cryptocurrency coins. The team plans to make a list of suitable coins that will be protected by CCY insurance.",
+        "socialUrl": {
+          "chat": [
+            "https://discord.gg/eEVMcbK",
+            "http://t.me/CryptocurrenyCCY"
+          ],
+          "reddit": [],
+          "twitter": [
+            "https://twitter.com/CCYOfficial"
+          ],
+          "website": [
+            "https://ccy.cash/"
+          ],
+          "explorer": [
+            "https://explorer.ccy.cash/",
+            "https://openchains.info/coin/ccyhttps://chains.trittium.cc/CCY/blocks"
+          ],
+          "source_code": [
+            "https://github.com/CCYofficial/CCY"
+          ],
+          "announcement": [
+            "https://bitcointalk.org/index.php?topic\u003d5189274.0"
+          ],
+          "message_board": [],
+          "technical_doc": []
+        },
+        "followCount": 0,
+        "maxChar": null
+      }
+    ],
+    "meta": {
+      "title": "Privacy Chat App Signal Rolls Out Cryptocurrency Payments",
+      "subtitle": "For now, the MobileCoin implementation is in beta. And only available in the UK.",
+      "content": null,
+      "sourceName": "Decrypt",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://decrypt.co/64135/signal-mobilecoin-cryptocurrency-payments?\u0026utm_medium\u003dreferral\u0026utm_campaign\u003dfeed\u0026utm_source\u003dcoinmarketcap",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T18:42:19.000Z",
+      "updatedAt": "2021-04-06T18:42:19.000Z",
+      "releasedAt": "2021-04-06T18:29:44.000Z"
+    }
+  },
+  {
+    "slug": "2109-remains-technically-significant-for-eth-usd-sally-ho-technical-analysis-7-april-2021-eth-ethereum",
+    "cover": "http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/sally-hos-technical-analysis-ethusd-7-april-2021.jpg",
+    "ownerAsset": {
+      "name": "Crypto Daily™",
+      "slug": "crypto-daily",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": null
+    },
+    "assets": [],
+    "meta": {
+      "title": "2109 Remains Technically Significant for ETH/USD:  Sally Hos Technical Analysis 7 April 2021 ETH",
+      "subtitle": "Ethereum (ETH/USD) extended its recent orbit around the psychologically-important 2000 figure following the pair\u0026rsquo;s recent all-time high print around the 2145 level, and subsequent pullback around the 1980 area.\u0026nbsp; Stops were recently elected above the 2081.97, 2106.06, a...",
+      "content": "\u003cp\u003eEthereum (ETH/USD) extended its recent orbit around the psychologically-important 2000 figure following the pair\u0026rsquo;s recent all-time high print around the 2145 level, and subsequent pullback around the 1980 area.\u0026nbsp; Stops were recently elected above the 2081.97, 2106.06, and 2109.69 areas during the ascent, representing the 61.8%, 76.4%, and 78.6% retracements of the depreciating range from 2145 to 1990.\u0026nbsp; Notably, the new all-time high of 2145 represented a test of the 2150.66 area, an upside price objective related to buying pressure around the 310.79 area.\u0026nbsp; If ETH/USD extends its upward strength, additional upside price objectives include the 2210.42 and 2460.24 levels.\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eBelow current market levels, some areas of potential technical support during pullbacks include 1932.59, 1906.64, 1859.89, 1822.11, 1764.32, 1737.57, and 1730.52.\u0026nbsp; Beyond those levels, additional areas of technical support include 1403.13, 1296.30, and 1205.96.\u0026nbsp; Stops were also recently elected above the 1930.40, 1957.36, and 2017.05 levels during the appreciation, areas related to historical buying pressure around the 215.16, 370.50, and 176.43 areas.\u0026nbsp; Traders are observing that the 50-bar MA (4-hourly) is bullishly indicating above the 100-bar MA (4-hourly)\u0026nbsp;and\u0026nbsp;above\u0026nbsp;the\u0026nbsp;200-bar MA (4-hourly).\u0026nbsp;\u0026nbsp; Also, the 50-bar MA (hourly) is bullishly indicating above the 200-bar MA (hourly) and above the 200-bar MA (hourly).\u003c/p\u003e\n\u003cp\u003ePrice activity is nearest the 50-bar MA (4-hourly) at 1936.17 and the 50-bar MA (Hourly) at 2055.30.\u003c/p\u003e\n\u003cp\u003eTechnical Support is expected around 1285.87/ 1205.96/ 1128.29 with Stops expected below.\u003c/p\u003e\n\u003cp\u003eTechnical Resistance is expected around 2150.66/ 2210.42/ 2460.24 with Stops expected above.\u003c/p\u003e\n\u003cp\u003eOn 4-Hourly chart, SlowK is Bullishly above SlowD while MACD is Bearishly below MACDAverage.\u003c/p\u003e\n\u003cp\u003eOn 60-minute chart, SlowK is Bearishly below SlowD while MACD is Bullishly above MACDAverage.\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eDisclaimer: This trading analysis is provided by a third party, and for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice. \u003c/p\u003e",
+      "sourceName": "Crypto Daily™",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://cryptodaily.co.uk/2021/04/2109-remains-technically-significant-for-eth-usd-sally-ho-technical-analysis-7-april-2021-eth-ethereum",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T18:42:19.000Z",
+      "updatedAt": "2021-04-06T18:42:19.000Z",
+      "releasedAt": "2021-04-06T18:15:00.000Z"
+    }
+  },
+  {
+    "slug": "coinmarketcap-removes-south-korea-crypto-exchanges-from-bitcoin-price-tracker",
+    "cover": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDQvMWFlNjc3MGQtOTI3Zi00ZDM2LWEyMjUtZGI5NDE2MWQ2NGZkLmpwZw\u003d\u003d.jpg",
+    "ownerAsset": {
+      "name": "Cointelegraph.com News",
+      "slug": "cointelegraph-news",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": 0
+    },
+    "assets": [
+      {
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+        "description": "Bitcoin (BTC) is a cryptocurrency . Users are able to generate BTC through the process of mining. Bitcoin has a current supply of 18,675,200. The last known price of Bitcoin is 58,177.68704071 USD and is down -2.51 over the last 24 hours. It is currently trading on 9505 active market(s) with $67,669,047,462.45 traded over the last 24 hours. More information can be found at https://bitcoin.org/.",
+        "socialUrl": {
+          "chat": [],
+          "reddit": [
+            "https://reddit.com/r/bitcoin"
+          ],
+          "twitter": [],
+          "website": [
+            "https://bitcoin.org/"
+          ],
+          "explorer": [
+            "https://blockchain.coinmarketcap.com/chain/bitcoin",
+            "https://blockchain.info/",
+            "https://live.blockcypher.com/btc/",
+            "https://blockchair.com/bitcoin",
+            "https://explorer.viabtc.com/btc"
+          ],
+          "source_code": [
+            "https://github.com/bitcoin/"
+          ],
+          "announcement": [],
+          "message_board": [
+            "https://bitcointalk.org"
+          ],
+          "technical_doc": [
+            "https://bitcoin.org/bitcoin.pdf"
+          ]
+        },
+        "followCount": 0,
+        "maxChar": null
+      }
+    ],
+    "meta": {
+      "title": "CoinMarketCap removes South Korea crypto exchanges from Bitcoin price tracker",
+      "subtitle": "\n                “If the prices on South Korean exchanges stabilize, then we will add the data back in, but that hasn’t happened yet,” said a CoinMarketCap spokesperson.\n            ",
+      "content": null,
+      "sourceName": "Cointelegraph.com News",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://cointelegraph.com/news/coinmarketcap-removes-south-korea-crypto-exchanges-from-bitcoin-price-tracker",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T18:22:19.000Z",
+      "updatedAt": "2021-04-06T18:22:19.000Z",
+      "releasedAt": "2021-04-06T18:15:00.000Z"
+    }
+  },
+  {
+    "slug": "peter-brandt-turns-bullish-on-xrp-after-spotting-extremely-rare-pattern",
+    "cover": "https://u.today/sites/default/files/styles/1200x/public/2021-04/2474.jpg",
+    "ownerAsset": {
+      "name": "U.Today",
+      "slug": "utoday",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": null
+    },
+    "assets": [
+      {
+        "name": "XRP",
+        "slug": "xrp",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
+        "description": "XRP (XRP) is a cryptocurrency . XRP has a current supply of 99,990,831,162 with 45,404,028,640 in circulation. The last known price of XRP is 1.00198966 USD and is up 34.99 over the last 24 hours. It is currently trading on 662 active market(s) with $38,034,071,726.43 traded over the last 24 hours. More information can be found at https://xrpl.org/.",
+        "socialUrl": {
+          "chat": [
+            "https://t.me/Ripple"
+          ],
+          "reddit": [
+            "https://reddit.com/r/ripple"
+          ],
+          "twitter": [
+            "https://twitter.com/Ripple"
+          ],
+          "website": [
+            "https://xrpl.org/"
+          ],
+          "explorer": [
+            "https://xrpcharts.ripple.com/#/graph/",
+            "https://bithomp.com/explorer/",
+            "https://xrpscan.com/",
+            "https://blockchair.com/ripple",
+            "https://bscscan.com/token/0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe"
+          ],
+          "source_code": [
+            "https://github.com/ripple"
+          ],
+          "announcement": [],
+          "message_board": [
+            "http://www.xrpchat.com/"
+          ],
+          "technical_doc": [
+            "https://ripple.com/files/ripple_consensus_whitepaper.pdf"
+          ]
+        },
+        "followCount": 0,
+        "maxChar": null
+      },
+      {
+        "name": "Rare",
+        "slug": "rare",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7456.png",
+        "description": "Rare is the social money of artist Rare Designer",
+        "socialUrl": {
+          "chat": [
+            "https://t.me/rare_designer"
+          ],
+          "reddit": [],
+          "twitter": [
+            "https://twitter.com/pepe_designer"
+          ],
+          "website": [
+            "https://app.tryroll.com/token/RARE"
+          ],
+          "explorer": [
+            "https://etherscan.io/token/0x81B1bFD6CB9Ad42DB395c2a27F73D4DCf5777e2D"
+          ],
+          "source_code": [],
+          "announcement": [],
+          "message_board": [],
+          "technical_doc": []
+        },
+        "followCount": 0,
+        "maxChar": null
+      }
+    ],
+    "meta": {
+      "title": "Peter Brandt Turns Bullish on XRP After Spotting Extremely Rare Pattern",
+      "subtitle": "XRP has just formed an incredibly rare pattern, according to trading legend Peter Brandt",
+      "content": null,
+      "sourceName": "U.Today",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://u.today/peter-brandt-turns-bullish-on-xrp-after-spotting-extremely-rare-pattern",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T18:42:19.000Z",
+      "updatedAt": "2021-04-06T18:42:19.000Z",
+      "releasedAt": "2021-04-06T18:13:00.000Z"
+    }
+  },
+  {
+    "slug": "4-reasons-altcoin-season-2021-has-officially-started",
+    "cover": "https://cryptopotato.com/wp-content/uploads/2021/01/altcoins_cover.jpg",
+    "ownerAsset": {
+      "name": "Feed - Cryptopotato.Com",
+      "slug": "feed--cryptopotato",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": null
+    },
+    "assets": [],
+    "meta": {
+      "title": "4 Reasons Altcoin Season 2021 Has Officially Started",
+      "subtitle": "With the latest triple-digit increase in the value of multiple altcoins, here are four possible reasons showing why the 2021 altcoins season is already here.",
+      "content": null,
+      "sourceName": "Feed - Cryptopotato.Com",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://cryptopotato.com/4-reasons-altcoin-season-2021-has-officially-started/",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T18:32:20.000Z",
+      "updatedAt": "2021-04-06T18:32:20.000Z",
+      "releasedAt": "2021-04-06T18:06:32.000Z"
+    }
+  },
+  {
+    "slug": "sothebys-nft-auction-pak-artist",
+    "cover": null,
+    "ownerAsset": {
+      "name": "The Block",
+      "slug": "the-block",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": 800
+    },
+    "assets": [
+      {
+        "name": "NEXT",
+        "slug": "next-coin",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3651.png",
+        "description": "NEXT (NEXT) is a cryptocurrency . NEXT has a current supply of 16,788,345.6826 with 6,228,753.54956 in circulation. The last known price of NEXT is 0.3052565 USD and is up 18.52 over the last 24 hours. It is currently trading on 2 active market(s) with $149,192.50 traded over the last 24 hours. More information can be found at https://next.exchange/.",
+        "socialUrl": {
+          "chat": [
+            "https://t.me/nextchain",
+            "https://discord.gg/hcvZZrk"
+          ],
+          "reddit": [
+            "https://reddit.com/r/nextchain"
+          ],
+          "twitter": [
+            "https://twitter.com/nextchainGlobal"
+          ],
+          "website": [
+            "https://next.exchange/",
+            "https://nextchain.dev"
+          ],
+          "explorer": [
+            "https://explore.next.exchange/#/",
+            "https://etherscan.io/token/0x377d552914e7a104bc22b4f3b6268ddc69615be7"
+          ],
+          "source_code": [
+            "https://github.com/NextExchange"
+          ],
+          "announcement": [
+            "https://next-chain.medium.com"
+          ],
+          "message_board": [
+            "https://medium.com/nextexchange"
+          ],
+          "technical_doc": [
+            "https://next.exchange/files/NEXT-Exchange-whitepaper-2-0.pdf"
+          ]
+        },
+        "followCount": 0,
+        "maxChar": null
+      },
+      {
+        "name": "NEXT",
+        "slug": "next",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3788.png",
+        "description": "NEXT (NET) is a cryptocurrency and operates on the Ethereum platform. NEXT has a current supply of 116,503,818.44415554 with 0 in circulation. The last known price of NEXT is 0.14585406 USD and is up 0.64 over the last 24 hours. It is currently trading on 1 active market(s) with $24,493.59 traded over the last 24 hours. More information can be found at http://www.nextcoinworld.com/.",
+        "socialUrl": {
+          "chat": [
+            "https://t.me/NEXTGlobal"
+          ],
+          "reddit": [],
+          "twitter": [
+            "https://twitter.com/coinbit_coinbit"
+          ],
+          "website": [
+            "http://www.nextcoinworld.com/"
+          ],
+          "explorer": [
+            "https://etherscan.io/token/0xF29226914595052a04F5AFbe6410D0C3eD707548",
+            "https://ethplorer.io/address/0xF29226914595052a04F5AFbe6410D0C3eD707548"
+          ],
+          "source_code": [],
+          "announcement": [
+            "https://bitcointalk.org/index.php?topic\u003d5133938.new#new"
+          ],
+          "message_board": [
+            "https://t.me/NEXTnotice"
+          ],
+          "technical_doc": []
+        },
+        "followCount": 0,
+        "maxChar": null
+      },
+      {
+        "name": "NFT",
+        "slug": "nft",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6650.png",
+        "description": "NFT (NFT) is a cryptocurrency and operates on the Ethereum platform. NFT has a current supply of 88,888,888 with 36,863,404 in circulation. The last known price of NFT is 0.37130001 USD and is down -4.16 over the last 24 hours. It is currently trading on 3 active market(s) with $526,443.88 traded over the last 24 hours. More information can be found at https://www.nft.org/.",
+        "socialUrl": {
+          "chat": [
+            "https://t.me/NFTProtocol"
+          ],
+          "reddit": [],
+          "twitter": [
+            "https://twitter.com/nft_protocol"
+          ],
+          "website": [
+            "https://www.nft.org/"
+          ],
+          "explorer": [
+            "https://etherscan.io/token/0xcB8d1260F9c92A3A545d409466280fFdD7AF7042",
+            "https://ethplorer.io/address/0xcB8d1260F9c92A3A545d409466280fFdD7AF7042"
+          ],
+          "source_code": [
+            "https://github.com/nftprotocol"
+          ],
+          "announcement": [],
+          "message_board": [
+            "https://nftprotocol.substack.com/"
+          ],
+          "technical_doc": []
+        },
+        "followCount": 0,
+        "maxChar": null
+      }
+    ],
+    "meta": {
+      "title": "Auction house Sotheby’s is hosting its first NFT sale next week",
+      "subtitle": "The sale will be in collaboration with popular NFT marketplace Nifty Gateway and feature the work of anonymous digital artist Pak.\nThe post Auction house Sotheby\u0026#8217;s is hosting its first NFT sale next week appeared first on The Block.\n",
+      "content": "\u003cp\u003eLuxury auction house Sotheby\u0027s is hosting its first-ever non-fungible token (NFT) sale featuring work created by Pak, an anonymous digital artist. \u003c/p\u003e\n\u003cp\u003eAccording to an announcement published Tuesday, the collection will include NFTs in the form of digital \"cubes.\" The individual NFTs are: A Cube (1), Five Cubes (5), Ten Cubes (10), Twenty Cubes (20), Fifty Cubes (50), Hundred Cubes (100), Five Hundred Cubes (500), and Thousand Cubes (1,000). \u003c/p\u003e\n\u003cp\u003eIf a collector chooses to purchase one cube they will receive one NFT. If they purchase six cubes, they will receive two NFTs: \"A Cube\" and \"Five Cubes.\" \u003c/p\u003e\n\u003cp\u003eAccording to the announcement, the collection aims to \"scrutinize our understanding of value,\" and poses potential buyers with the question: \"What does value mean, and from where does it derive authority?\"\u003c/p\u003e\n\u003cp\u003eThe sale will begin on April 12 and end on April 14, and will be released in collaboration with NFT marketplace Nifty Gateway. \u003c/p\u003e\n\u003cp\u003ePak, whose identity remains a mystery, has been a prominent figure in the world of digital art for over twenty years. In addition to using technology to create artwork, they are also the founder and lead designer of the studio Undream. Pak also created Archillect, an AI meant to find and display visual media. \u003c/p\u003e\n\u003cp\u003e\u003cem\u003eImage via Sotheby\u0027s\u003c/em\u003e website\u003c/p\u003e\u003cbr/\u003e\u003cp\u003e\u003cspan class\u003d\"font-body font-size-7;\"\u003e© 2021 The Block Crypto, Inc. All Rights Reserved. This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.\u003c/span\u003e\u003c/p\u003e\n",
+      "sourceName": "The Block",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://www.theblockcrypto.com/linked/100683/sothebys-nft-auction-pak-artist?utm_source\u003dcoinmarketcap\u0026utm_medium\u003drss",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T18:12:20.000Z",
+      "updatedAt": "2021-04-06T18:12:20.000Z",
+      "releasedAt": "2021-04-06T18:01:48.000Z"
+    }
+  },
+  {
+    "slug": "coinshares-litecoin-exchange-traded-product-etp",
+    "cover": "https://btcmanager.com/wp-content/uploads/2021/04/CoinShares-Launches-Litecoin-Exchange-Traded-Product-ETP-as-it-Expands-its-Product-Offering.jpg",
+    "ownerAsset": {
+      "name": "BTCMANAGER",
+      "slug": "btcmanager",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": null
+    },
+    "assets": [
+      {
+        "name": "Litecoin",
+        "slug": "litecoin",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png",
+        "description": "Litecoin (LTC) is a cryptocurrency . Users are able to generate LTC through the process of mining. Litecoin has a current supply of 66,752,414.51538747. The last known price of Litecoin is 233.92339606 USD and is up 11.62 over the last 24 hours. It is currently trading on 735 active market(s) with $8,744,893,146.24 traded over the last 24 hours. More information can be found at https://litecoin.org/.",
+        "socialUrl": {
+          "chat": [
+            "https://telegram.me/litecoin"
+          ],
+          "reddit": [
+            "https://reddit.com/r/litecoin"
+          ],
+          "twitter": [
+            "https://twitter.com/LitecoinProject"
+          ],
+          "website": [
+            "https://litecoin.org/"
+          ],
+          "explorer": [
+            "https://blockchair.com/litecoin",
+            "https://chainz.cryptoid.info/ltc/",
+            "http://explorer.litecoin.net/chain/Litecoin",
+            "https://ltc.tokenview.com/en",
+            "https://bscscan.com/token/0x4338665cbb7b2485a8855a139b75d5e34ab0db94"
+          ],
+          "source_code": [
+            "https://github.com/litecoin-project/litecoin"
+          ],
+          "announcement": [
+            "https://bitcointalk.org/index.php?topic\u003d47417.0"
+          ],
+          "message_board": [
+            "https://litecointalk.io/",
+            "https://litecoin-foundation.org/"
+          ],
+          "technical_doc": []
+        },
+        "followCount": 0,
+        "maxChar": null
+      }
+    ],
+    "meta": {
+      "title": "CoinShares Launches Litecoin-backed Exchange Traded Product (ETP)",
+      "subtitle": "CoinShares has announced the launch of a Litecoin backed exchange-traded product (ETF). This development increases the number of crypto-backed investment products launched by CoinShares to seven.  Litecoin ETP Listed on Swiss SIX Exchange  CoinShares revealed this launch of the L...",
+      "content": "\u003cstrong\u003eCoinShares has announced the launch of a Litecoin backed exchange-traded product (ETF). This development increases the number of crypto-backed investment products launched by CoinShares to seven. \u003c/strong\u003e\n\u003ch2\u003e\u003cb\u003eLitecoin ETP Listed on Swiss SIX Exchange \u003c/b\u003e\u003c/h2\u003e\n\u003cspan style\u003d\"font-weight: 400\"\u003eCoinShares\u003c/span\u003e\u003cspan style\u003d\"font-weight: 400\"\u003e revealed this launch of the Litecoin exchange product on April 6, 2021, and it will be listed using the ticker LITE. According to the \u003c/span\u003e\u003cspan style\u003d\"font-weight: 400\"\u003ereport\u003c/span\u003e\u003cspan style\u003d\"font-weight: 400\"\u003e, each LITE unit is backed by 0.20 litecoin at launch and offers institutional investors access to Litecoin. The ETF will also be initially listed on the SIX Swiss Exchange with a base fee of 1.5% per annum. \u003c/span\u003e\n\n\u003cspan style\u003d\"font-weight: 400\"\u003eTownsend Lansing, head of product at CoinShares, believes that the launch is the next step for the investment firm. \u003c/span\u003e\n\u003cblockquote\u003e\u003cstrong\u003e\"LITE comes hot on the heels of our Bitcoin and Ethereum product launches in 2021 and will benefit from the same robust and transparent physically-backed product structure. We are excited to add exposure to such a well-accepted and widely traded crypto-asset to our new product line,\" he stated. \u003c/strong\u003e\u003c/blockquote\u003e\n\u003cspan style\u003d\"font-weight: 400\"\u003eLITE is the third product launched in 2021 by CoinShares institution ETP platform CoinShares Physical. Crypto-backed ETPs have become popular in recent months due to the growing interest of institutions.\u003c/span\u003e\n\n\u003cspan style\u003d\"font-weight: 400\"\u003eThis trend is acknowledged by Frank Spiteri, Chief Revenue Officer at CoinShares.\u003c/span\u003e\n\u003cblockquote\u003e\u003cstrong\u003e \"As demand for digital assets amongst the traditional investment community steadily increases, we are starting to see the green shoots of demand for investment exposures outside of the top two dominant networks.\"\u003c/strong\u003e\u003c/blockquote\u003e\n\u003cspan style\u003d\"font-weight: 400\"\u003eSpiteri further added that CoinShares was always on the lookout to create new ways for investors to access crypto assets. \u003c/span\u003e\n\u003cblockquote\u003e\u003cstrong\u003e\"CoinShares is the leader in developing novel ways for investors to access the digital asset ecosystem, and LITE is the next step on a path to bringing a more comprehensive and diversified offering of ETPs to market,\" he concluded.\u003c/strong\u003e\u003c/blockquote\u003e\n\u003ch2\u003e\u003cb\u003eThird Major ETP Launched in 2021\u003c/b\u003e\u003c/h2\u003e\n\u003cspan style\u003d\"font-weight: 400\"\u003eCoinShares is the largest crypto investment firm in Europe, with more than $4 billion under its management. The announcement of the Litecoin ETP is the third major ETP launched by the firm in 2021. \u003c/span\u003e\n\n\u003cspan style\u003d\"font-weight: 400\"\u003eA Bitcoin-backed ETP was launched in January with $200 million in assets committed to the ETP. This was subsequently followed by the launch of an \u003c/span\u003e\u003cspan style\u003d\"font-weight: 400\"\u003eEthereum ETP\u003c/span\u003e\u003cspan style\u003d\"font-weight: 400\"\u003e in February. \u003c/span\u003e",
+      "sourceName": "BTCMANAGER",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://btcmanager.com/coinshares-litecoin-exchange-traded-product-etp/",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T18:32:20.000Z",
+      "updatedAt": "2021-04-06T18:32:20.000Z",
+      "releasedAt": "2021-04-06T18:00:51.000Z"
+    }
+  },
+  {
+    "slug": "btc-usd-eyeing-59955-ahead-of-60000-sally-ho-technical-analysis-7-april-2021-btc-bitcoin",
+    "cover": "http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/sally-hos-technical-analysis-btcusd-7-april-2021.jpg",
+    "ownerAsset": {
+      "name": "Crypto Daily™",
+      "slug": "crypto-daily",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": null
+    },
+    "assets": [],
+    "meta": {
+      "title": "BTC/USD Eyeing 59955 Ahead of 60000:  Sally Ho\u0027s Technical Analysis 7 April 2021 BTC",
+      "subtitle": "Bitcoin (BTC/USD) continues to trade around and below the psychologically-important 60000 figure following its recent gyrations from the 60055.02 level to the 56817.54 level.\u0026nbsp; The 59251.76 level recently capped the pair\u0026rsquo;s upside, a level that is right around the 78.6% ...",
+      "content": "\u003cp\u003eBitcoin (BTC/USD) continues to trade around and below the psychologically-important 60000 figure following its recent gyrations from the 60055.02 level to the 56817.54 level.\u0026nbsp; The 59251.76 level recently capped the pair\u0026rsquo;s upside, a level that is right around the 78.6% retracement of the depreciating range from 61688.73 to 50305.\u0026nbsp; Recent buying pressure pushed BTC/USD above the 52166, 54003, and 55841 areas, representing the 61.8%, 50%, and 38.2% retracements of the appreciating range from 46219.32 to 61788.45.\u0026nbsp; \u0026nbsp;If BTC/USD extends recent gains, additional upside price objectives include the 62026.52, 63788.17, 64436.39, and 64835.59 levels.\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eStops were recently elected below the 52402, 52166, 52107, 51997, and 50485 levels during the depreciation.\u0026nbsp; Following the recent weakness, some downside levels of potential technical support include 50187, 49962, 49551, 49322, 48972, and 48634.\u0026nbsp; Traders have lifted BTC/USD more than 90% year-to-date, pushing the pair as high as the 61788.45 level, a fresh all-time high.\u0026nbsp; Stops were recently elected above some important upside price objectives including the 58896.80, 59792.54, 60069.04, 60368.14, 60522.13, and 61065.64 areas, targets related to buying pressure from the 16200, 17580, 21913.84, and 9819.83 levels.\u0026nbsp; Traders are\u0026nbsp;observing\u0026nbsp;that the\u0026nbsp;50-bar MA (4-hourly)\u0026nbsp;is\u0026nbsp;bullishly indicating above the 100-bar MA (4-hourly)\u0026nbsp;and\u0026nbsp;above\u0026nbsp;the\u0026nbsp;200-bar MA (4-hourly).\u0026nbsp; \u0026nbsp;Also, the 50-bar MA (hourly) is bearishly indicating below the 100-bar MA (hourly) and above the 200-bar MA (hourly).\u003c/p\u003e\n\u003cp\u003ePrice activity is nearest the\u0026nbsp;50-bar MA\u0026nbsp;(4-hourly) at 58217.24 and the\u0026nbsp;100-bar MA\u0026nbsp;(Hourly) at\u0026nbsp;58818.64.\u003c/p\u003e\n\u003cp\u003eTechnical Support\u0026nbsp;is expected around\u0026nbsp;50187/ 49962/ 49551\u0026nbsp;with\u0026nbsp;Stops\u0026nbsp;expected below.\u003c/p\u003e\n\u003cp\u003eTechnical Resistance\u0026nbsp;is expected around\u0026nbsp;62026.52/ 63788.17/ 64436.39 with\u0026nbsp;Stops\u0026nbsp;expected above.\u0026nbsp;\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eOn\u0026nbsp;4-Hourly\u0026nbsp;chart,\u0026nbsp;SlowK\u0026nbsp;is Bullishly above SlowD\u0026nbsp;while\u0026nbsp;MACD\u0026nbsp;is\u0026nbsp;Bullishly above MACDAverage.\u003c/p\u003e\n\u003cp\u003eOn\u0026nbsp;60-minute\u0026nbsp;chart,\u0026nbsp;SlowK\u0026nbsp;is\u0026nbsp;Bearishly below SlowD\u0026nbsp;while\u0026nbsp;MACD\u0026nbsp;is\u0026nbsp;Bullishly above MACDAverage.\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eDisclaimer: This trading analysis is provided by a third party, and for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e",
+      "sourceName": "Crypto Daily™",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://cryptodaily.co.uk/2021/04/btc-usd-eyeing-59955-ahead-of-60000-sally-ho-technical-analysis-7-april-2021-btc-bitcoin",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T18:22:19.000Z",
+      "updatedAt": "2021-04-06T18:22:19.000Z",
+      "releasedAt": "2021-04-06T18:00:00.000Z"
+    }
+  },
+  {
+    "slug": "2-52b-in-bearish-bitcoin-options-signal-pro-traders-are-hedging-their-bets",
+    "cover": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDQvMzhmM2QxZDItZDhhYy00OWUwLWJkNTUtZWQyOTExOWMyOGM4LmpwZw\u003d\u003d.jpg",
+    "ownerAsset": {
+      "name": "Cointelegraph.com News",
+      "slug": "cointelegraph-news",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": 0
+    },
+    "assets": [
+      {
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+        "description": "Bitcoin (BTC) is a cryptocurrency . Users are able to generate BTC through the process of mining. Bitcoin has a current supply of 18,675,200. The last known price of Bitcoin is 58,177.68704071 USD and is down -2.51 over the last 24 hours. It is currently trading on 9505 active market(s) with $67,669,047,462.45 traded over the last 24 hours. More information can be found at https://bitcoin.org/.",
+        "socialUrl": {
+          "chat": [],
+          "reddit": [
+            "https://reddit.com/r/bitcoin"
+          ],
+          "twitter": [],
+          "website": [
+            "https://bitcoin.org/"
+          ],
+          "explorer": [
+            "https://blockchain.coinmarketcap.com/chain/bitcoin",
+            "https://blockchain.info/",
+            "https://live.blockcypher.com/btc/",
+            "https://blockchair.com/bitcoin",
+            "https://explorer.viabtc.com/btc"
+          ],
+          "source_code": [
+            "https://github.com/bitcoin/"
+          ],
+          "announcement": [],
+          "message_board": [
+            "https://bitcointalk.org"
+          ],
+          "technical_doc": [
+            "https://bitcoin.org/bitcoin.pdf"
+          ]
+        },
+        "followCount": 0,
+        "maxChar": null
+      }
+    ],
+    "meta": {
+      "title": "$2.52B in bearish Bitcoin options signal pro traders are hedging their bets",
+      "subtitle": "\n                The open interest on bearish put options has risen to $2.52 billion as traders look for protection against a BTC price drop to the $40,000–$50,000 range.\n            ",
+      "content": null,
+      "sourceName": "Cointelegraph.com News",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://cointelegraph.com/news/2-52b-in-bearish-bitcoin-options-signal-pro-traders-are-hedging-their-bets",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T18:02:19.000Z",
+      "updatedAt": "2021-04-06T18:02:19.000Z",
+      "releasedAt": "2021-04-06T17:54:18.000Z"
+    }
+  },
+  {
+    "slug": "limited-edition-kiwie-nfts-of-real-life-street-art-to-be-listed-on-rarible",
+    "cover": null,
+    "ownerAsset": {
+      "name": "CryptoSlate",
+      "slug": "cryptoslate",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": 800
+    },
+    "assets": [
+      {
+        "name": "REAL",
+        "slug": "real",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2030.png",
+        "description": "REAL (REAL) is a cryptocurrency and operates on the Ethereum platform. REAL has a current supply of 19,717,288 with 10,055,817 in circulation. The last known price of REAL is 0.13253302 USD and is down -8.43 over the last 24 hours. It is currently trading on 1 active market(s) with $5,026.12 traded over the last 24 hours. More information can be found at https://www.real.markets/.",
+        "socialUrl": {
+          "chat": [],
+          "reddit": [],
+          "twitter": [
+            "https://twitter.com/real_token"
+          ],
+          "website": [
+            "https://www.real.markets/"
+          ],
+          "explorer": [
+            "https://etherscan.io/address/0x9214ec02cb71cba0ada6896b8da260736a67ab10",
+            "https://ethplorer.io/address/0x9214ec02cb71cba0ada6896b8da260736a67ab10"
+          ],
+          "source_code": [],
+          "announcement": [
+            "https://bitcointalk.org/index.php?topic\u003d2064991.0"
+          ],
+          "message_board": [],
+          "technical_doc": [
+            "https://icobazaar.com/static/40e4c618165759580ad167e072843182/REAL_Whitepaper.pdf"
+          ]
+        },
+        "followCount": 0,
+        "maxChar": null
+      },
+      {
+        "name": "Rarible",
+        "slug": "rarible",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5877.png",
+        "description": "Rarible (RARI) is a cryptocurrency and operates on the Ethereum platform. Rarible has a current supply of 25,000,000 with 855,330.434615 in circulation. The last known price of Rarible is 38.44138903 USD and is down -2.19 over the last 24 hours. It is currently trading on 19 active market(s) with $9,397,707.87 traded over the last 24 hours. More information can be found at https://app.rarible.com/rari.",
+        "socialUrl": {
+          "chat": [],
+          "reddit": [],
+          "twitter": [
+            "https://twitter.com/rariblecom"
+          ],
+          "website": [
+            "https://app.rarible.com/rari"
+          ],
+          "explorer": [
+            "https://etherscan.io/token/0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+            "https://ethplorer.io/address/0xfca59cd816ab1ead66534d82bc21e7515ce441cf"
+          ],
+          "source_code": [],
+          "announcement": [],
+          "message_board": [],
+          "technical_doc": []
+        },
+        "followCount": 0,
+        "maxChar": null
+      },
+      {
+        "name": "NFT",
+        "slug": "nft",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6650.png",
+        "description": "NFT (NFT) is a cryptocurrency and operates on the Ethereum platform. NFT has a current supply of 88,888,888 with 36,863,404 in circulation. The last known price of NFT is 0.37130001 USD and is down -4.16 over the last 24 hours. It is currently trading on 3 active market(s) with $526,443.88 traded over the last 24 hours. More information can be found at https://www.nft.org/.",
+        "socialUrl": {
+          "chat": [
+            "https://t.me/NFTProtocol"
+          ],
+          "reddit": [],
+          "twitter": [
+            "https://twitter.com/nft_protocol"
+          ],
+          "website": [
+            "https://www.nft.org/"
+          ],
+          "explorer": [
+            "https://etherscan.io/token/0xcB8d1260F9c92A3A545d409466280fFdD7AF7042",
+            "https://ethplorer.io/address/0xcB8d1260F9c92A3A545d409466280fFdD7AF7042"
+          ],
+          "source_code": [
+            "https://github.com/nftprotocol"
+          ],
+          "announcement": [],
+          "message_board": [
+            "https://nftprotocol.substack.com/"
+          ],
+          "technical_doc": []
+        },
+        "followCount": 0,
+        "maxChar": null
+      }
+    ],
+    "meta": {
+      "title": "These limited edition NFTs of real-life street art are getting listed on Rarible",
+      "subtitle": "Leveraging blockchain technology to add value to street art, KIWIE plans to release 1001 exclusive NFTs and real-life artworks across 195 countries in the next five years under its new project KIWIE 1001. \nThe post These limited edition NFTs of real-life street art are getting li...",
+      "content": "\u003cp\u003eLeveraging blockchain technology to add value to street art, KIWIE plans to release 1001 exclusive NFTs and real-life artworks across 195 countries in the next five years under its new project KIWIE 1001.\u003c/p\u003e\n\u003cp\u003eWith the hype around blockchain and NFTs at an all-time high, content creators across industries, such as artists, musicians, athletes, and entertainers, have joined this revolution, and more continue to follow suit.\u003c/p\u003e\n\u003cp\u003eIn the latest iteration, famous Latvian street artist, KIWIE, has come up with a great way of monetizing street art and offering buyers complete ownership and authenticity using blockchain technology.\u003c/p\u003e\n\u003cp\u003eThe unique concept, KIWIE 1001, is a project that will generate 1001 Kiwie NFTs and real-life artworks around the world in 195 countries in the next five years. Unlike regular NFTs, KIWIE NFT collectors will gain exclusive ownership over real-life street artwork anywhere in the world through blockchain technology.\u003c/p\u003e\n\u003cp\u003eThe first batch of exclusive NFTs will be launched via Rarible on April 13th. Following this launch, KIWIE plans to release four more collections in the coming months, all of which will be new NFT-specific artworks.\u003c/p\u003e\n\u003ch2\u003eBlockchain \u0026amp; NFTs To Redefine ‘Ownership’\u003c/h2\u003e\n\u003cp\u003eEach KIWIE NFT will be for individual artworks. For each piece of art, a 3D model will be generated, representing the actual street art. The figure will include a geotag linking the NFT to its respective artwork.\u003c/p\u003e\n\u003cp\u003eThe holder of the NFT effectively owns the street art and is free to resell the artwork. Once the KIWIE NFT is purchased, a metal certificate will be printed and sent to the owner of the NFT. This metal certificate will act as a \u003ci\u003erare collectible\u003c/i\u003e and will only be made once per artwork.\u003c/p\u003e\n\u003cp\u003eFormer Managing Director of Riot Games Europe, Paul Breslin, highlights that this innovative idea can redefine street-art ownership and enable more artists to monetize their content.\u003c/p\u003e\n\u003cp\u003eHe underlines:\u003c/p\u003e\n\u003cblockquote\u003e\u003cp\u003e“I have been following Kiwie for years and am continuously being blown away by the creativity and originality. This project goes beyond just NFT\u0026#8217;s and in the world of gaming has many avenues to delight and entertain the global gaming audience for years to come.”\u003c/p\u003e\u003c/blockquote\u003e\n\u003ch2\u003eStreet Art, Blockchain, NFT \u0026#8211; A New World Of Content\u003c/h2\u003e\n\u003cp\u003eKIWIE’s lead business strategist and blockchain gaming industry veteran,  Kristaps Vaivods, is the person behind this unique idea of fusing NFT and street art using blockchain technology. He is highly confident that this concept will be a game-changer.\u003c/p\u003e\n\u003cp\u003eHe states:\u003c/p\u003e\n\u003cblockquote\u003e\u003cp\u003e“The Fat Monster is a unique and iconic creation, and it’s different from what many other street artists do. I just love the global community that formed around the cute monsters, and I hope that the ability to really own a piece of street art will be even more inspirational.”\u003c/p\u003e\u003c/blockquote\u003e\n\u003cp\u003eNFTs revolutionize the street art landscape due to their non-invasive aspect. Previously, selling a graffiti artist\u0026#8217;s work meant detaching the wall where it was painted, as the location was a significant part of its existence. Through KIWIE NFTs, collectors will own the digital version and the physical version of the art.\u003c/p\u003e\n\u003cp\u003eKIWIE, the original creator of Fat Monster, concludes, “Using NFTs to represent ownership allows us to maintain the beauty of the art intact. Blockchain is not just a buzzword here, it legitimately enables something that used to be impossible.\u0026#8221;\u003c/p\u003e\n\u003cp\u003eThe post These limited edition NFTs of real-life street art are getting listed on Rarible appeared first on CryptoSlate.\u003c/p\u003e\n",
+      "sourceName": "CryptoSlate",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://cryptoslate.com/limited-edition-kiwie-nfts-of-real-life-street-art-to-be-listed-on-rarible/",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T17:32:19.000Z",
+      "updatedAt": "2021-04-06T17:32:19.000Z",
+      "releasedAt": "2021-04-06T17:30:42.000Z"
+    }
+  },
+  {
+    "slug": "eos-nem-maker-price-analysis-06-april",
+    "cover": null,
+    "ownerAsset": {
+      "name": "AMBCrypto",
+      "slug": "ambcrypto",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": null
+    },
+    "assets": [
+      {
+        "name": "NEM",
+        "slug": "nem",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/873.png",
+        "description": "NEM (XEM) is a cryptocurrency . NEM has a current supply of 8,999,999,999. The last known price of NEM is 0.452278 USD and is up 7.81 over the last 24 hours. It is currently trading on 100 active market(s) with $1,372,407,557.34 traded over the last 24 hours. More information can be found at http://nem.io.",
+        "socialUrl": {
+          "chat": [
+            "https://t.me/nemred"
+          ],
+          "reddit": [
+            "https://reddit.com/r/nem"
+          ],
+          "twitter": [
+            "https://twitter.com/NEMofficial"
+          ],
+          "website": [
+            "http://nem.io"
+          ],
+          "explorer": [
+            "http://chain.nem.ninja/",
+            "http://explorer.nemtool.com/"
+          ],
+          "source_code": [
+            "https://github.com/nemtech"
+          ],
+          "announcement": [
+            "https://bitcointalk.org/index.php?topic\u003d654845.0"
+          ],
+          "message_board": [
+            "https://forum.nem.io/"
+          ],
+          "technical_doc": [
+            "https://nem.io/wp-content/themes/nem/files/NEM_techRef.pdf"
+          ]
+        },
+        "followCount": 0,
+        "maxChar": null
+      },
+      {
+        "name": "Maker",
+        "slug": "maker",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png",
+        "description": "Maker (MKR) is a cryptocurrency and operates on the Ethereum platform. Maker has a current supply of 995,238.77828647. The last known price of Maker is 2,249.16955608 USD and is down -2.97 over the last 24 hours. It is currently trading on 202 active market(s) with $104,859,593.37 traded over the last 24 hours. More information can be found at https://makerdao.com/.",
+        "socialUrl": {
+          "chat": [
+            "https://t.me/makerdaoOfficial"
+          ],
+          "reddit": [
+            "https://reddit.com/r/MakerDAO"
+          ],
+          "twitter": [
+            "https://twitter.com/MakerDAO"
+          ],
+          "website": [
+            "https://makerdao.com/"
+          ],
+          "explorer": [
+            "https://etherscan.io/token/Maker",
+            "https://ethplorer.io/address/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+            "https://blockchair.com/ethereum/erc-20/token/0xda27b988921a0659bceac1abd4b43a295c8296f4",
+            "https://eth.tokenview.com/en/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+          ],
+          "source_code": [],
+          "announcement": [],
+          "message_board": [],
+          "technical_doc": [
+            "https://makerdao.com/en/whitepaper/#overview-of-the-dai-stablecoin-system"
+          ]
+        },
+        "followCount": 0,
+        "maxChar": null
+      }
+    ],
+    "meta": {
+      "title": "EOS, NEM, Maker Price Analysis: 06 April",
+      "subtitle": "EOS registered some warning signs as the price approached the $7-mark. NEM could move towards $0.56 if the price breaks north of the $0.48-resistance level. Finally, Maker needs to gather more strength before attempting a hike above the $2,572-upper ceiling. EOS Weekly gains for ...",
+      "content": null,
+      "sourceName": "AMBCrypto",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://eng.ambcrypto.com/eos-nem-maker-price-analysis-06-april/",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T17:32:19.000Z",
+      "updatedAt": "2021-04-06T17:32:19.000Z",
+      "releasedAt": "2021-04-06T17:30:01.000Z"
+    }
+  },
+  {
+    "slug": "crypto-lobby-groups-are-gaining-traction-in-washington-as-the-threat-of-regulatory-bottleneck-looms",
+    "cover": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDQvMTllZGRiODgtOGY4Yi00NjAyLTg5MDUtN2VhZWE5YWU0Nzk4LmpwZw\u003d\u003d.jpg",
+    "ownerAsset": {
+      "name": "Cointelegraph.com News",
+      "slug": "cointelegraph-news",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": 0
+    },
+    "assets": [],
+    "meta": {
+      "title": "Crypto lobby groups are gaining traction in Washington as the threat of regulatory bottleneck looms",
+      "subtitle": "\n                The blockchain industry is looking to shed the negative association between digital assets and crime as the threat of additional regulatory oversight looms. \n            ",
+      "content": null,
+      "sourceName": "Cointelegraph.com News",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://cointelegraph.com/news/crypto-lobby-groups-are-gaining-traction-in-washington-as-the-threat-of-regulatory-bottleneck-looms",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T17:42:19.000Z",
+      "updatedAt": "2021-04-06T17:42:19.000Z",
+      "releasedAt": "2021-04-06T17:30:00.000Z"
+    }
+  },
+  {
+    "slug": "luxury-nashville-hotel-takes-bookings-in-bitcoin-or-dogecoin",
+    "cover": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/Webp.net-resizeimage53-gID_2.jpg",
+    "ownerAsset": {
+      "name": "Decrypt",
+      "slug": "decrypt",
+      "type": "NEWS_OUTLET",
+      "logo": null,
+      "description": null,
+      "socialUrl": null,
+      "followCount": 0,
+      "maxChar": 0
+    },
+    "assets": [
+      {
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+        "description": "Bitcoin (BTC) is a cryptocurrency . Users are able to generate BTC through the process of mining. Bitcoin has a current supply of 18,675,200. The last known price of Bitcoin is 58,177.68704071 USD and is down -2.51 over the last 24 hours. It is currently trading on 9505 active market(s) with $67,669,047,462.45 traded over the last 24 hours. More information can be found at https://bitcoin.org/.",
+        "socialUrl": {
+          "chat": [],
+          "reddit": [
+            "https://reddit.com/r/bitcoin"
+          ],
+          "twitter": [],
+          "website": [
+            "https://bitcoin.org/"
+          ],
+          "explorer": [
+            "https://blockchain.coinmarketcap.com/chain/bitcoin",
+            "https://blockchain.info/",
+            "https://live.blockcypher.com/btc/",
+            "https://blockchair.com/bitcoin",
+            "https://explorer.viabtc.com/btc"
+          ],
+          "source_code": [
+            "https://github.com/bitcoin/"
+          ],
+          "announcement": [],
+          "message_board": [
+            "https://bitcointalk.org"
+          ],
+          "technical_doc": [
+            "https://bitcoin.org/bitcoin.pdf"
+          ]
+        },
+        "followCount": 0,
+        "maxChar": null
+      },
+      {
+        "name": "Dogecoin",
+        "slug": "dogecoin",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
+        "description": "Dogecoin (DOGE) is a cryptocurrency . Users are able to generate DOGE through the process of mining. Dogecoin has a current supply of 129,072,700,574.95102. The last known price of Dogecoin is 0.06112743 USD and is up 5.55 over the last 24 hours. It is currently trading on 312 active market(s) with $2,262,823,858.07 traded over the last 24 hours. More information can be found at http://dogecoin.com/.",
+        "socialUrl": {
+          "chat": [
+            "http://webchat.freenode.net/?nick\u003dShibe..\u0026channels\u003d%23dogecoin\u0026prompt\u003d1"
+          ],
+          "reddit": [
+            "https://reddit.com/r/dogecoin"
+          ],
+          "twitter": [
+            "https://twitter.com/dogecoin"
+          ],
+          "website": [
+            "http://dogecoin.com/"
+          ],
+          "explorer": [
+            "https://blockchair.com/dogecoin",
+            "http://dogechain.info/chain/Dogecoin",
+            "https://doge.tokenview.com",
+            "https://explorer.viabtc.com/doge",
+            "https://bscscan.com/token/0xba2ae424d960c26247dd6c32edc70b295c744c43"
+          ],
+          "source_code": [
+            "https://github.com/dogecoin/dogecoin"
+          ],
+          "announcement": [
+            "https://bitcointalk.org/index.php?topic\u003d361813.0"
+          ],
+          "message_board": [],
+          "technical_doc": [
+            "https://github.com/dogecoin/dogecoin/blob/master/README.md"
+          ]
+        },
+        "followCount": 0,
+        "maxChar": null
+      },
+      {
+        "name": "Nash",
+        "slug": "nash-exchange",
+        "type": "PROJECT_UPDATE",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3829.png",
+        "description": "Nash (NEX) is a cryptocurrency and operates on the Neo platform. Nash has a current supply of 50,000,000 with 29,166,201 in circulation. The last known price of Nash is 1.90477701 USD and is down -5.51 over the last 24 hours. It is currently trading on 5 active market(s) with $298,889.88 traded over the last 24 hours. More information can be found at https://nash.io/.",
+        "socialUrl": {
+          "chat": [],
+          "reddit": [
+            "https://reddit.com/r/Nash"
+          ],
+          "twitter": [
+            "https://twitter.com/nashsocial"
+          ],
+          "website": [
+            "https://nash.io/"
+          ],
+          "explorer": [
+            "https://neotracker.io/contract/3a4acd3647086e7c44398aac0349802e6a171129",
+            "https://scan.nel.group/nep5/0x3a4acd3647086e7c44398aac0349802e6a171129"
+          ],
+          "source_code": [
+            "https://github.com/nash-io"
+          ],
+          "announcement": [],
+          "message_board": [
+            "https://medium.com/nashsocial",
+            "https://community.nash.io/"
+          ],
+          "technical_doc": []
+        },
+        "followCount": 0,
+        "maxChar": null
+      }
+    ],
+    "meta": {
+      "title": "Luxury Nashville Hotel Takes Bookings in Bitcoin—or Dogecoin",
+      "subtitle": "You can now pay for a room at the Bobby Hotel using several of the biggest cryptocurrencies, including Bitcoin.\n",
+      "content": null,
+      "sourceName": "Decrypt",
+      "language": "en",
+      "status": "PUBLISHED",
+      "type": "NEWS",
+      "visibility": false,
+      "sourceUrl": "https://decrypt.co/64104/luxury-nashville-hotel-takes-bookings-in-bitcoin-or-dogecoin?\u0026utm_medium\u003dreferral\u0026utm_campaign\u003dfeed\u0026utm_source\u003dcoinmarketcap",
+      "likeCount": 0,
+      "createdAt": "2021-04-06T16:22:18.000Z",
+      "updatedAt": "2021-04-06T16:22:18.000Z",
+      "releasedAt": "2021-04-06T17:24:27.000Z"
+    }
+  }
+]
