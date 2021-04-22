@@ -14,7 +14,7 @@ scrapper.init().then(() => {
     console.log('\n##### Scrapper started ######\n');
 }).catch(err => console.log('scrapper init error', { err }));
 export const hostname = '127.0.0.1';
-const port = 5000;
+const port = 5050;
 const server = createServer((req, res) => __awaiter(void 0, void 0, void 0, function* () {
     let textList = [];
     switch (req.url) {

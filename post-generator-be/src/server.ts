@@ -8,7 +8,7 @@ scrapper.init().then(() => {
 }).catch(err => console.log('scrapper init error', { err }));
 
 export const hostname = '127.0.0.1';
-const port = 5000;
+const port = 5050;
 
 const server = createServer(async (req, res) => {
   let textList = [];

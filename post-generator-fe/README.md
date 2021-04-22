@@ -1,38 +1,11 @@
-# create-svelte
+# Post generator Frontend
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
+Used create the Frontend for the News Post Generator. The app allows you to select the news from different sources, create and print the posts. It is built using **Svelt**, and **Tailwindcss**.
 
-## Creating a project
+The frontend consists of 3 main Pages:
 
-If you're seeing this, you've probably already done this step. Congrats!
+1. A **Headline picker** where, you pick the headlines you'd like to use
+2. A **Post creator** where, you can assign headlines to specific posts from different sources, including saved headlines or auto populate cards
+3. A **Preview page**, to preview the finished posts posts
 
-```bash
-# create a new project in the current directory
-npm init svelte@next
-
-# create a new project in my-app
-npm init svelte@next my-app
-```
-
-> Note: the `@next` is temporary
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:
-
-```bash
-npm run build
-```
-
-> You can preview the built app with `npm start`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.
+The pages are compiled exported to the server so **to run the project use the** [server folder](https://github.com/Trindade7/news-post-creator/api-server).
