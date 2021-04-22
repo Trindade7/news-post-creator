@@ -1,0 +1,9 @@
+{
+  "git.ignoreLimitWarning": true,
+  "files.exclude": {
+    "post-generator-be": true,
+    "LICENSE.md": true,
+    "README.md": true,
+    ".vscode": true
+  }
+}

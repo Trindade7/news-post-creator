@@ -1,0 +1,646 @@
+<div class="instagram-post-base screen" data-id="a50b6a17-a580-47d0-a616-701a0354c359">
+	<div class="crypto-news-C61RwL" data-id="662af252-19aa-4c09-8325-261285330277">
+		<div class="rectangle-2-i0O0ks" data-id="b6b0c1e2-1417-4a39-85c4-1b5e2fb01a2e" />
+		<div class="rectangle-1-i0O0ks" data-id="a0cbe868-ee9c-4d29-93e8-614be4af8ed6" />
+		<img
+			alt=""
+			class="image-e3aa2aed-f8-bdc3581e7b07-i0O0ks"
+			data-id="f82d949a-6a8b-4683-925b-fc61b6b691b7"
+			src="https://cdn.animaapp.com/projects/607f1d9876ddba265e601200/releases/607f1da576ddba265e601201/img/image-e3aa2aed-9016-45c2-85f8-bdc3581e7b07@1x.png"
+			anima-src="https://cdn.animaapp.com/projects/607f1d9876ddba265e601200/releases/607f1da576ddba265e601201/img/image-e3aa2aed-9016-45c2-85f8-bdc3581e7b07@1x.png"
+		/><img
+			alt=""
+			class="artboard-1uniquel-i0O0ks"
+			data-id="681e1e4f-4a01-43ec-9e87-fe9e61a1eb1a"
+			src="https://cdn.animaapp.com/projects/607f1d9876ddba265e601200/releases/607f1da576ddba265e601201/img/artboard-1uniquel@1x.png"
+			anima-src="https://cdn.animaapp.com/projects/607f1d9876ddba265e601200/releases/607f1da576ddba265e601201/img/artboard-1uniquel@1x.png"
+		/>
+		<div class="group-1-i0O0ks" data-id="310d82a8-61f8-4a9d-9145-5ef32a62ad2c">
+			<h1 class="title-W7o6bH" data-id="c8d26fbf-925f-42ba-aabb-f54c3725e0eb">
+				What's happening <br />with cryptocurrency?
+			</h1>
+		</div>
+		<div class="group-166-i0O0ks" data-id="30f9e1bf-2578-4ac5-aeca-04a8f9e9f208">
+			<div class="ellipse-23-M1Gsiy" data-id="26b90127-3eb9-4bc2-b4bf-d2b7f89fec98" />
+			<div class="ellipse-24-M1Gsiy" data-id="e376d2df-bf18-49e5-947b-9564e92f54b6" />
+			<div class="ellipse-25-M1Gsiy" data-id="c908df55-f807-4c3a-8c34-3d0a5cf1519d" />
+		</div>
+		<div class="group-166-M83K6P" data-id="2a1135ba-b1b8-4041-9c79-0bece3856b2f">
+			<div class="ellipse-23-Gd1rb1" data-id="6ff241f5-25a0-4240-8fbb-01517e06434e" />
+			<div class="ellipse-24-Gd1rb1" data-id="8e6ab10d-2578-48f7-9022-800ea3954fb0" />
+			<div class="ellipse-25-Gd1rb1" data-id="4d3ed6de-cdc9-4c0e-934b-e96202c03af2" />
+		</div>
+		<div class="group-166-YXkFot" data-id="b0704122-2518-46c4-a086-f64db86f2eb0">
+			<div class="ellipse-23-XJ8EO6" data-id="6eb58e7d-8415-49f8-bbbc-dd9c9d3c49bc" />
+			<div class="ellipse-24-XJ8EO6" data-id="fc9e188a-bca0-4272-9303-e7a573359c58" />
+			<div class="ellipse-25-XJ8EO6" data-id="411510b2-07fb-4593-9199-78e3c6fd58a8" />
+		</div>
+		<div class="group-166-ZCm9hY" data-id="bc809565-5d9b-4c21-82f1-9f5e453e202e">
+			<div class="ellipse-23-p7AXw5" data-id="7eee08ea-3380-4dbe-aa19-e0a788da16f2" />
+			<div class="ellipse-24-p7AXw5" data-id="a7d6f8ae-ee8c-4c02-992e-46eb549a75be" />
+			<div class="ellipse-25-p7AXw5" data-id="1ffcbc4c-2dba-4ce7-9059-e549d34cb415" />
+		</div>
+		<div class="group-167-i0O0ks" data-id="f3c5afa7-a415-4134-b841-8a73298334d7">
+			<div
+				class="headline1-gCsuey arial-regular-normal-white-33px"
+				data-id="ecf5a55f-8be5-4178-adb2-5976b30cb944"
+			>
+				Serena Williams Backs $5M Round in Bitcoin Rewards Startup Lolli
+			</div>
+			<div
+				class="headline2-gCsuey arial-regular-normal-white-33px"
+				data-id="b0fc5e8a-52c1-40d0-a271-4812faeb12ae"
+			>
+				Ferrum Network Leverages AI And Machine Learning To Make DeFi More Accessible
+			</div>
+			<div
+				class="headline3-gCsuey arial-regular-normal-white-33px"
+				data-id="d42bd6cd-9662-4ab5-bdf0-79b826fe8493"
+			>
+				Americans ready to pour $40 Billion into cryptocurrency and the stock market as stimulus
+				checks arrive: survey reveals
+			</div>
+			<div
+				class="headline4-gCsuey arial-regular-normal-white-33px"
+				data-id="477c9334-51c2-4d32-a1ce-58d5a88b4413"
+			>
+				Robinhood plans hiring spree for cryptocurrency operation
+			</div>
+			<div
+				class="headline5-gCsuey arial-regular-normal-white-33px"
+				data-id="738a78a0-6344-41d2-8758-2ce1ffd17e4a"
+			>
+				Ethereum Seconds Bitcoin as Crypto Fund Managers’ AUM Skyrocket
+			</div>
+		</div>
+		<div class="group-166-vq3SYC" data-id="4d090a82-d816-41ce-acf7-826f564514a5">
+			<div class="ellipse-23-QCg09S" data-id="2e344222-7bae-46a1-b49f-155a6a6bc3d2" />
+			<div class="ellipse-24-QCg09S" data-id="25f0a80b-9aaf-43ef-8399-37fa24c06e86" />
+			<div class="ellipse-25-QCg09S" data-id="28f023d3-65e4-4cba-bfef-e1d09ee7d11f" />
+		</div>
+		<div class="ellipse-5-i0O0ks" data-id="6a2fe807-0193-45b7-923d-deb147e12f6d" />
+		<img
+			alt=""
+			class="x1200px-facebookiconsvg-i0O0ks"
+			data-id="26737731-652f-41b8-aca5-50f2f04d74b0"
+			src="https://cdn.animaapp.com/projects/607f1d9876ddba265e601200/releases/607f1da576ddba265e601201/img/1200px-facebook-icon-svg@1x.png"
+			anima-src="https://cdn.animaapp.com/projects/607f1d9876ddba265e601200/releases/607f1da576ddba265e601201/img/1200px-facebook-icon-svg@1x.png"
+		/>
+		<div class="group-3-i0O0ks" data-id="08b84697-910e-4f41-97d0-cff6710c4b93">
+			<img
+				alt=""
+				class="line-1-Jf1gBx"
+				data-id="05774692-69c2-43a8-8f64-5fb005d93768"
+				src="https://cdn.animaapp.com/projects/607f1d9876ddba265e601200/releases/607f1da576ddba265e601201/img/line-1@1x.png"
+				anima-src="https://cdn.animaapp.com/projects/607f1d9876ddba265e601200/releases/607f1da576ddba265e601201/img/line-1@1x.png"
+			/>
+			<div class="ellipse-2-Jf1gBx" data-id="4a824c87-e8de-49d3-a830-e03f0600361a" />
+		</div>
+		<div class="component-1-1-i0O0ks" data-id="e826386b-7c90-4c0c-8322-71888754638e">
+			<div class="thecryptohumans-9biJXQ" data-id="15e3e3aa-2976-47b6-a370-1aeb9dada47f">
+				@thecryptohumans
+			</div>
+		</div>
+		<img
+			alt=""
+			class="x1024px-instagramicon-i0O0ks"
+			data-id="d68e9506-5f82-4541-acaf-d61065a4041b"
+			src="https://cdn.animaapp.com/projects/607f1d9876ddba265e601200/releases/607f1da576ddba265e601201/img/1024px-instagram-icon@1x.png"
+			anima-src="https://cdn.animaapp.com/projects/607f1d9876ddba265e601200/releases/607f1da576ddba265e601201/img/1024px-instagram-icon@1x.png"
+		/>
+		<div class="group-3-M83K6P" data-id="2d3f9183-591a-4157-8b4d-79217667f82a">
+			<img
+				alt=""
+				class="line-1-xJRZRz"
+				data-id="fc036fef-4256-4daf-bd8e-bf686686d6e6"
+				src="https://cdn.animaapp.com/projects/607f1d9876ddba265e601200/releases/607f1da576ddba265e601201/img/line-1@1x.png"
+				anima-src="https://cdn.animaapp.com/projects/607f1d9876ddba265e601200/releases/607f1da576ddba265e601201/img/line-1@1x.png"
+			/>
+			<div class="ellipse-2-xJRZRz" data-id="29158889-3751-494f-87e6-9d88152efc0f" />
+		</div>
+		<div class="component-2-1-i0O0ks" data-id="7f92bf7a-8053-4f50-8a6c-2c2fb1d304b6">
+			<div class="thecryptohuman-ipxgxg" data-id="abbdb804-5194-4318-8077-7b3d8c9c04ab">
+				@thecryptohuman
+			</div>
+		</div>
+		<img
+			alt=""
+			class="line-2-i0O0ks"
+			data-id="96adf4e9-c946-441c-9781-5dd523fdc3f0"
+			src="https://cdn.animaapp.com/projects/607f1d9876ddba265e601200/releases/607f1da576ddba265e601201/img/line-2@1x.png"
+			anima-src="https://cdn.animaapp.com/projects/607f1d9876ddba265e601200/releases/607f1da576ddba265e601201/img/line-2@1x.png"
+		/>
+	</div>
+</div>
+
+<style>
+	@font-face {
+		font-family: 'Arial-Regular';
+		font-style: normal;
+		font-weight: 400;
+		src: url('https://anima-uploads.s3.amazonaws.com/5c58c99ae21217000c4e869b/arial.otf')
+			format('opentype');
+	}
+
+	@font-face {
+		font-family: 'SegoeUI-Bold';
+		font-style: normal;
+		font-weight: 700;
+		src: url('https://anima-uploads.s3.amazonaws.com/5c584d745e9ae3000a003018/segoeuib.ttf')
+			format('truetype');
+	}
+	@font-face {
+		font-family: 'Arial-Regular';
+		font-style: normal;
+		font-weight: 400;
+		src: url('https://anima-uploads.s3.amazonaws.com/5c58c99ae21217000c4e869b/arial.otf')
+			format('opentype');
+	}
+
+	@font-face {
+		font-family: 'SegoeUI-Bold';
+		font-style: normal;
+		font-weight: 700;
+		src: url('https://anima-uploads.s3.amazonaws.com/5c584d745e9ae3000a003018/segoeuib.ttf')
+			format('truetype');
+	}
+	* {
+		box-sizing: border-box;
+	}
+	.arial-regular-normal-white-33px {
+		color: var(--white);
+		font-family: var(--font-family-arial-regular);
+		font-size: var(--font-size-m);
+		font-style: normal;
+		font-weight: 400;
+	}
+	:root {
+		--cornflower-blue: rgba(111, 147, 246, 1);
+		--font-family-arial-regular: 'Arial-Regular', Helvetica;
+		--font-family-segoeui-bold: 'SegoeUI-Bold', Helvetica;
+		--font-size-l: 48px;
+		--font-size-m: 33px;
+		--font-size-s: 28px;
+		--my-sin: rgba(249, 178, 38, 1);
+		--white: rgba(255, 255, 255, 1);
+	}
+
+	/* screen - instagram-post-base */
+
+	.instagram-post-base {
+		background-color: var(--white);
+		height: 1080px;
+		overflow: hidden;
+		overflow-x: hidden;
+		position: relative;
+		width: 1080px;
+	}
+	.instagram-post-base .artboard-1uniquel-i0O0ks {
+		background-color: transparent;
+		height: 197px;
+		object-fit: cover;
+		position: absolute;
+		right: 43px;
+		top: 0px;
+		width: 229px;
+	}
+	.instagram-post-base .component-1-1-i0O0ks {
+		background-color: transparent;
+		bottom: 45px;
+		height: 37px;
+		left: calc(23.51% - 61px);
+		position: absolute;
+		width: 259px;
+	}
+	.instagram-post-base .component-2-1-i0O0ks {
+		background-color: transparent;
+		bottom: 45px;
+		height: 37px;
+		position: absolute;
+		right: calc(18.61% - 46px);
+		width: 247px;
+	}
+	.instagram-post-base .crypto-news-C61RwL {
+		background-color: transparent;
+		height: 1089px;
+		left: 0px;
+		position: relative;
+		top: -9px;
+		width: 1080px;
+	}
+	.instagram-post-base .ellipse-2-Jf1gBx {
+		background-color: var(--my-sin);
+		border: 3px solid var(--cornflower-blue);
+		border-radius: 9.5px;
+		height: 100%;
+		left: 0px;
+		position: absolute;
+		top: 0px;
+		width: 19px;
+	}
+	.instagram-post-base .ellipse-2-xJRZRz {
+		background-color: var(--my-sin);
+		border: 3px solid var(--cornflower-blue);
+		border-radius: 9.5px;
+		height: 100%;
+		position: absolute;
+		right: 0px;
+		top: 0px;
+		width: 19px;
+	}
+	.instagram-post-base .ellipse-23-Gd1rb1 {
+		background-color: var(--my-sin);
+		border-radius: 11.5px;
+		height: 100%;
+		left: 0px;
+		position: absolute;
+		top: 0px;
+		width: 23px;
+	}
+	.instagram-post-base .ellipse-23-M1Gsiy {
+		background-color: var(--my-sin);
+		border-radius: 11.5px;
+		height: 100%;
+		left: 0px;
+		position: absolute;
+		top: 0px;
+		width: 23px;
+	}
+	.instagram-post-base .ellipse-23-QCg09S {
+		background-color: var(--my-sin);
+		border-radius: 11.5px;
+		height: 100%;
+		left: 0px;
+		position: absolute;
+		top: 0px;
+		width: 23px;
+	}
+	.instagram-post-base .ellipse-23-XJ8EO6 {
+		background-color: var(--my-sin);
+		border-radius: 11.5px;
+		height: 100%;
+		left: 0px;
+		position: absolute;
+		top: 0px;
+		width: 23px;
+	}
+	.instagram-post-base .ellipse-23-p7AXw5 {
+		background-color: var(--my-sin);
+		border-radius: 11.5px;
+		height: 100%;
+		left: 0px;
+		position: absolute;
+		top: 0px;
+		width: 23px;
+	}
+	.instagram-post-base .ellipse-24-Gd1rb1 {
+		background-color: var(--my-sin);
+		border-radius: 11.5px;
+		height: 100%;
+		left: calc(50% - 12px);
+		position: absolute;
+		top: 0px;
+		width: 23px;
+	}
+	.instagram-post-base .ellipse-24-M1Gsiy {
+		background-color: var(--my-sin);
+		border-radius: 11.5px;
+		height: 100%;
+		left: calc(50% - 12px);
+		position: absolute;
+		top: 0px;
+		width: 23px;
+	}
+	.instagram-post-base .ellipse-24-QCg09S {
+		background-color: var(--my-sin);
+		border-radius: 11.5px;
+		height: 100%;
+		left: calc(50% - 12px);
+		position: absolute;
+		top: 0px;
+		width: 23px;
+	}
+	.instagram-post-base .ellipse-24-XJ8EO6 {
+		background-color: var(--my-sin);
+		border-radius: 11.5px;
+		height: 100%;
+		left: calc(50% - 12px);
+		position: absolute;
+		top: 0px;
+		width: 23px;
+	}
+	.instagram-post-base .ellipse-24-p7AXw5 {
+		background-color: var(--my-sin);
+		border-radius: 11.5px;
+		height: 100%;
+		left: calc(50% - 12px);
+		position: absolute;
+		top: 0px;
+		width: 23px;
+	}
+	.instagram-post-base .ellipse-25-Gd1rb1 {
+		background-color: var(--my-sin);
+		border-radius: 11.5px;
+		height: 100%;
+		position: absolute;
+		right: 0px;
+		top: 0px;
+		width: 23px;
+	}
+	.instagram-post-base .ellipse-25-M1Gsiy {
+		background-color: var(--my-sin);
+		border-radius: 11.5px;
+		height: 100%;
+		position: absolute;
+		right: 0px;
+		top: 0px;
+		width: 23px;
+	}
+	.instagram-post-base .ellipse-25-QCg09S {
+		background-color: var(--my-sin);
+		border-radius: 11.5px;
+		height: 100%;
+		position: absolute;
+		right: 0px;
+		top: 0px;
+		width: 23px;
+	}
+	.instagram-post-base .ellipse-25-XJ8EO6 {
+		background-color: var(--my-sin);
+		border-radius: 11.5px;
+		height: 100%;
+		position: absolute;
+		right: 0px;
+		top: 0px;
+		width: 23px;
+	}
+	.instagram-post-base .ellipse-25-p7AXw5 {
+		background-color: var(--my-sin);
+		border-radius: 11.5px;
+		height: 100%;
+		position: absolute;
+		right: 0px;
+		top: 0px;
+		width: 23px;
+	}
+	.instagram-post-base .ellipse-5-i0O0ks {
+		background-color: var(--white);
+		border: 1px solid var(--cornflower-blue);
+		border-radius: 44px;
+		bottom: 17px;
+		height: 88px;
+		left: 22px;
+		position: absolute;
+		width: 88px;
+	}
+	.instagram-post-base .group-1-i0O0ks {
+		background-color: transparent;
+		height: 151px;
+		left: calc(36% - 191px);
+		position: absolute;
+		top: 36px;
+		width: 530px;
+	}
+	.instagram-post-base .group-166-M83K6P {
+		background-color: transparent;
+		height: 23px;
+		left: 40px;
+		position: absolute;
+		top: 412px;
+		width: 89px;
+	}
+	.instagram-post-base .group-166-YXkFot {
+		background-color: transparent;
+		height: 23px;
+		left: 40px;
+		position: absolute;
+		top: 554px;
+		width: 89px;
+	}
+	.instagram-post-base .group-166-ZCm9hY {
+		background-color: transparent;
+		height: 23px;
+		left: 40px;
+		position: absolute;
+		top: 696px;
+		width: 89px;
+	}
+	.instagram-post-base .group-166-i0O0ks {
+		background-color: transparent;
+		height: 23px;
+		left: 40px;
+		position: absolute;
+		top: 270px;
+		width: 89px;
+	}
+	.instagram-post-base .group-166-vq3SYC {
+		background-color: transparent;
+		height: 23px;
+		left: 40px;
+		position: absolute;
+		top: 838px;
+		width: 89px;
+	}
+	.instagram-post-base .group-167-i0O0ks {
+		background-color: transparent;
+		bottom: calc(40.63% - 262px);
+		height: 646px;
+		left: 162px;
+		position: absolute;
+		width: calc(100% - 205px);
+	}
+	.instagram-post-base .group-3-M83K6P {
+		background-color: transparent;
+		bottom: 52px;
+		height: 19px;
+		position: absolute;
+		right: 122px;
+		width: 70px;
+	}
+	.instagram-post-base .group-3-i0O0ks {
+		background-color: transparent;
+		bottom: 52px;
+		height: 19px;
+		left: 101px;
+		position: absolute;
+		width: 70px;
+	}
+	.instagram-post-base .headline1-gCsuey {
+		background-color: transparent;
+		height: 77px;
+		left: 0px;
+		letter-spacing: 0px;
+		line-height: 33px;
+		position: absolute;
+		text-align: left;
+		top: 0px;
+		width: calc(100% + 2px);
+	}
+	.instagram-post-base .headline2-gCsuey {
+		background-color: transparent;
+		height: 77px;
+		left: 0px;
+		letter-spacing: 0px;
+		line-height: 33px;
+		position: absolute;
+		text-align: left;
+		top: 116px;
+		width: 100%;
+	}
+	.instagram-post-base .headline3-gCsuey {
+		background-color: transparent;
+		height: 77px;
+		left: 0px;
+		letter-spacing: 0px;
+		line-height: 33px;
+		position: absolute;
+		text-align: left;
+		top: 266px;
+		width: 100%;
+	}
+	.instagram-post-base .headline4-gCsuey {
+		background-color: transparent;
+		height: 39px;
+		left: 0px;
+		letter-spacing: 0px;
+		line-height: 33px;
+		position: absolute;
+		text-align: left;
+		top: 429px;
+		white-space: nowrap;
+		width: 100%;
+	}
+	.instagram-post-base .headline5-gCsuey {
+		background-color: transparent;
+		height: 77px;
+		left: 0px;
+		letter-spacing: 0px;
+		line-height: 33px;
+		position: absolute;
+		text-align: left;
+		top: 571px;
+		width: 100%;
+	}
+	.instagram-post-base .image-e3aa2aed-f8-bdc3581e7b07-i0O0ks {
+		background-color: transparent;
+		height: 122px;
+		left: 20px;
+		object-fit: cover;
+		position: absolute;
+		top: 51px;
+		width: 122px;
+	}
+	.instagram-post-base .line-1-Jf1gBx {
+		background-color: transparent;
+		height: 3px;
+		left: 10px;
+		object-fit: cover;
+		position: absolute;
+		top: calc(50% - 2px);
+		width: calc(100% - 10px);
+	}
+	.instagram-post-base .line-1-xJRZRz {
+		background-color: transparent;
+		height: 3px;
+		left: 0px;
+		object-fit: cover;
+		position: absolute;
+		top: calc(50% - 2px);
+		width: calc(100% - 10px);
+	}
+	.instagram-post-base .line-2-i0O0ks {
+		background-color: transparent;
+		height: 5px;
+		left: calc(32.7% - 155px);
+		object-fit: cover;
+		position: absolute;
+		top: 174px;
+		width: 473px;
+	}
+	.instagram-post-base .rectangle-1-i0O0ks {
+		background-color: rgba(0, 0, 0, 1);
+		height: 178px;
+		left: 0px;
+		position: absolute;
+		top: 9px;
+		width: 100%;
+	}
+	.instagram-post-base .rectangle-2-i0O0ks {
+		background-color: rgba(0, 0, 0, 1);
+		height: calc(100% - 176px);
+		left: 0px;
+		position: absolute;
+		top: 176px;
+		width: 100%;
+	}
+	.instagram-post-base .thecryptohuman-ipxgxg {
+		background-color: transparent;
+		bottom: -2px;
+		color: var(--my-sin);
+		font-family: 'SegoeUI-Bold', Helvetica;
+		font-size: 28px;
+		font-style: normal;
+		font-weight: 700;
+		height: 39px;
+		left: 0px;
+		letter-spacing: 0px;
+		line-height: 28px;
+		position: absolute;
+		text-align: left;
+		white-space: nowrap;
+		width: 249px;
+	}
+	.instagram-post-base .thecryptohumans-9biJXQ {
+		background-color: transparent;
+		bottom: -2px;
+		color: var(--my-sin);
+		font-family: 'SegoeUI-Bold', Helvetica;
+		font-size: 28px;
+		font-style: normal;
+		font-weight: 700;
+		height: 39px;
+		left: 0px;
+		letter-spacing: 0px;
+		line-height: 28px;
+		position: absolute;
+		text-align: left;
+		white-space: nowrap;
+		width: 261px;
+	}
+	.instagram-post-base .title-W7o6bH {
+		background-color: transparent;
+		color: var(--my-sin);
+		font-family: 'SegoeUI-Bold', Helvetica;
+		font-size: 48px;
+		font-style: normal;
+		font-weight: 700;
+		height: 153px;
+		left: 0px;
+		letter-spacing: 0px;
+		line-height: 64px;
+		position: absolute;
+		text-align: left;
+		top: -8px;
+		width: calc(100% + 2px);
+	}
+	.instagram-post-base .x1024px-instagramicon-i0O0ks {
+		background-color: transparent;
+		border-radius: 44px;
+		bottom: 17px;
+		height: 88px;
+		object-fit: cover;
+		position: absolute;
+		right: 43px;
+		width: 88px;
+	}
+	.instagram-post-base .x1200px-facebookiconsvg-i0O0ks {
+		background-color: transparent;
+		border-radius: 44px;
+		bottom: 17px;
+		height: 88px;
+		left: 22px;
+		object-fit: cover;
+		position: absolute;
+		width: 88px;
+	}
+</style>
