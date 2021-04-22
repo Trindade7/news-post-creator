@@ -11,13 +11,4 @@
 			<NewsBase />
 		</div>
 	</div>
-	<!-- <div class="content__news px-4 py-5 sm:px-6">
-		<NewsList />
-	</div> -->
 </div>
-
-<style>
-	.post-preview {
-		transform: scale(e);
-	}
-</style>

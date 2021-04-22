@@ -27,7 +27,7 @@
 </script>
 
 <div class="rounded-t">
-	<div class="bg-white dark:bg-gray-800 shadow overflow-hidden sm:rounded-md max-h-screen">
+	<div class="bg-white dark:bg-gray-800 shadow overflow-hidden sm:rounded-md">
 		<ul class="divide-y divide-gray-200 overflow-y-auto h-full">
 			{#each headlines as headline}
 				<li class="block hover:bg-gray-50 dark:hover:bg-gray-900">
