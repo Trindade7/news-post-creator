@@ -11,12 +11,6 @@
 			<NewsBase />
 		</div>
 	</div>
-	<!-- <div class="content__preview  my-5  max-w-sm max-h-96 overflow-hidden">
-		<div style="transform-origin: 0 0;
-    transform: scale(.35);">
-			<NewsBase />
-		</div>
-	</div> -->
 	<!-- <div class="content__news px-4 py-5 sm:px-6">
 		<NewsList />
 	</div> -->
